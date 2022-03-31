@@ -15,7 +15,7 @@ npm run react-dev
 
 ## Usage
 
-  Mellow was a re-design of database and UI/UX client requested project and its usage was to showcase the ability 
+  Catwalk was a client request based re-design of database and UI/UX project and its usage was to showcase the ability 
   as software engineers that the team was promising, agile, and creative on our final delivery and prove the persistency of back-end system
   with stress tests assimilated with K6 and later optimization of all the queries made to the system accordingly.
 
