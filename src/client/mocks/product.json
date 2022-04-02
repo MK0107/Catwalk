@@ -1,0 +1,3979 @@
+{
+  "id": 18078,
+  "campus": "hr-bld",
+  "name": "Camo Onesie",
+  "slogan": "Blend in to your crowd",
+  "description": "The So Fatigues will wake you up and fit you in. This high energy camo will have you blending in to even the wildest surroundings.",
+  "category": "Jackets",
+  "default_price": "140.00",
+  "created_at": "2021-02-23T05:08:00.350Z",
+  "updated_at": "2021-02-23T05:08:00.350Z",
+  "features": [
+    {
+      "feature": "Fabric",
+      "value": "Canvas"
+    },
+    {
+      "feature": "Buttons",
+      "value": "Brass"
+    }
+  ],
+  "styles": [
+    {
+      "style_id": 96887,
+      "name": "Forest Green & Black",
+      "original_price": "140.00",
+      "sale_price": null,
+      "default?": true,
+      "photos": [
+        {
+          "thumbnail_url": "https://images.unsplash.com/photo-1501088430049-71c79fa3283e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+          "url": "https://images.unsplash.com/photo-1501088430049-71c79fa3283e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80"
+        },
+        {
+          "thumbnail_url": "https://images.unsplash.com/photo-1534011546717-407bced4d25c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+          "url": "https://images.unsplash.com/photo-1534011546717-407bced4d25c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2734&q=80"
+        },
+        {
+          "thumbnail_url": "https://images.unsplash.com/photo-1549831243-a69a0b3d39e0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+          "url": "https://images.unsplash.com/photo-1549831243-a69a0b3d39e0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2775&q=80"
+        },
+        {
+          "thumbnail_url": "https://images.unsplash.com/photo-1527522883525-97119bfce82d?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80",
+          "url": "https://images.unsplash.com/photo-1527522883525-97119bfce82d?ixlib=rb-1.2.1&auto=format&fit=crop&w=668&q=80"
+        },
+        {
+          "thumbnail_url": "https://images.unsplash.com/photo-1556648202-80e751c133da?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+          "url": "https://images.unsplash.com/photo-1556648202-80e751c133da?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80"
+        },
+        {
+          "thumbnail_url": "https://images.unsplash.com/photo-1532543491484-63e29b3c1f5d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+          "url": "https://images.unsplash.com/photo-1532543491484-63e29b3c1f5d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=80"
+        }
+      ],
+      "skus": {
+        "560837": {
+          "quantity": 8,
+          "size": "XS"
+        },
+        "560838": {
+          "quantity": 16,
+          "size": "S"
+        },
+        "560839": {
+          "quantity": 17,
+          "size": "M"
+        },
+        "560840": {
+          "quantity": 10,
+          "size": "L"
+        },
+        "560841": {
+          "quantity": 15,
+          "size": "XL"
+        },
+        "560842": {
+          "quantity": 4,
+          "size": "XL"
+        }
+      }
+    },
+    {
+      "style_id": 96888,
+      "name": "Desert Brown & Tan",
+      "original_price": "140.00",
+      "sale_price": null,
+      "default?": false,
+      "photos": [
+        {
+          "thumbnail_url": "https://images.unsplash.com/photo-1533779183510-8f55a55f15c1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+          "url": "https://images.unsplash.com/photo-1533779183510-8f55a55f15c1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80"
+        },
+        {
+          "thumbnail_url": "https://images.unsplash.com/photo-1560567546-4c6dbc16877b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+          "url": "https://images.unsplash.com/photo-1560567546-4c6dbc16877b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80"
+        },
+        {
+          "thumbnail_url": "https://images.unsplash.com/photo-1458253329476-1ebb8593a652?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+          "url": "https://images.unsplash.com/photo-1458253329476-1ebb8593a652?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80"
+        },
+        {
+          "thumbnail_url": "https://images.unsplash.com/photo-1422557379185-474fa15bf770?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+          "url": "https://images.unsplash.com/photo-1422557379185-474fa15bf770?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80"
+        },
+        {
+          "thumbnail_url": "https://images.unsplash.com/photo-1490723286627-4b66e6b2882a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+          "url": "https://images.unsplash.com/photo-1490723286627-4b66e6b2882a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80"
+        },
+        {
+          "thumbnail_url": "https://images.unsplash.com/photo-1447958272669-9c562446304f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+          "url": "https://images.unsplash.com/photo-1447958272669-9c562446304f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2800&q=80"
+        }
+      ],
+      "skus": {
+        "560843": {
+          "quantity": 8,
+          "size": "XS"
+        },
+        "560844": {
+          "quantity": 16,
+          "size": "S"
+        },
+        "560845": {
+          "quantity": 17,
+          "size": "M"
+        },
+        "560846": {
+          "quantity": 10,
+          "size": "L"
+        },
+        "560847": {
+          "quantity": 15,
+          "size": "XL"
+        },
+        "560848": {
+          "quantity": 6,
+          "size": "XXL"
+        }
+      }
+    },
+    {
+      "style_id": 96889,
+      "name": "Ocean Blue & Grey",
+      "original_price": "140.00",
+      "sale_price": "100.00",
+      "default?": false,
+      "photos": [
+        {
+          "thumbnail_url": "https://images.unsplash.com/photo-1556304653-cba65c59b3c5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+          "url": "https://images.unsplash.com/photo-1556304653-cba65c59b3c5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2761&q=80"
+        },
+        {
+          "thumbnail_url": "https://images.unsplash.com/photo-1544131750-2985d621da30?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+          "url": "https://images.unsplash.com/photo-1544131750-2985d621da30?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=666&q=80"
+        },
+        {
+          "thumbnail_url": "https://images.unsplash.com/photo-1557760257-b02421ae77fe?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+          "url": "https://images.unsplash.com/photo-1557760257-b02421ae77fe?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2089&q=80"
+        },
+        {
+          "thumbnail_url": "https://images.unsplash.com/photo-1551506448-074afa034c05?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+          "url": "https://images.unsplash.com/photo-1551506448-074afa034c05?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=938&q=80"
+        },
+        {
+          "thumbnail_url": "https://images.unsplash.com/photo-1556268652-ad74ebb8f1e7?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80",
+          "url": "https://images.unsplash.com/photo-1556268652-ad74ebb8f1e7?ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"
+        },
+        {
+          "thumbnail_url": "https://images.unsplash.com/photo-1557394976-32cc983558ba?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+          "url": "https://images.unsplash.com/photo-1557394976-32cc983558ba?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=80"
+        }
+      ],
+      "skus": {
+        "560849": {
+          "quantity": 8,
+          "size": "XS"
+        },
+        "560850": {
+          "quantity": 16,
+          "size": "S"
+        },
+        "560851": {
+          "quantity": 17,
+          "size": "M"
+        },
+        "560852": {
+          "quantity": 10,
+          "size": "L"
+        },
+        "560853": {
+          "quantity": 15,
+          "size": "XL"
+        },
+        "560854": {
+          "quantity": 6,
+          "size": "XXL"
+        }
+      }
+    },
+    {
+      "style_id": 96890,
+      "name": "Digital Red & Black",
+      "original_price": "140.00",
+      "sale_price": null,
+      "default?": false,
+      "photos": [
+        {
+          "thumbnail_url": "https://images.unsplash.com/photo-1530092376999-2431865aa8df?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+          "url": "https://images.unsplash.com/photo-1530092376999-2431865aa8df?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2734&q=80"
+        },
+        {
+          "thumbnail_url": "https://images.unsplash.com/photo-1487174244970-cd18784bb4a4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+          "url": "https://images.unsplash.com/photo-1487174244970-cd18784bb4a4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1652&q=80"
+        },
+        {
+          "thumbnail_url": "https://images.unsplash.com/photo-1488554378835-f7acf46e6c98?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+          "url": "https://images.unsplash.com/photo-1488554378835-f7acf46e6c98?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1651&q=80"
+        },
+        {
+          "thumbnail_url": "https://images.unsplash.com/photo-1486025402772-bc179c8dfb0e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+          "url": "https://images.unsplash.com/photo-1486025402772-bc179c8dfb0e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80"
+        },
+        {
+          "thumbnail_url": "https://images.unsplash.com/photo-1473691955023-da1c49c95c78?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+          "url": "https://images.unsplash.com/photo-1473691955023-da1c49c95c78?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80"
+        },
+        {
+          "thumbnail_url": "https://images.unsplash.com/photo-1517456837005-d757b959ae2b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=60",
+          "url": "https://images.unsplash.com/photo-1517456837005-d757b959ae2b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+        }
+      ],
+      "skus": {
+        "560855": {
+          "quantity": 8,
+          "size": "XS"
+        },
+        "560856": {
+          "quantity": 16,
+          "size": "S"
+        },
+        "560857": {
+          "quantity": 17,
+          "size": "M"
+        },
+        "560858": {
+          "quantity": 10,
+          "size": "L"
+        },
+        "560859": {
+          "quantity": 15,
+          "size": "XL"
+        },
+        "560860": {
+          "quantity": 6,
+          "size": "XXL"
+        }
+      }
+    },
+    {
+      "style_id": 96891,
+      "name": "Sky Blue & White",
+      "original_price": "140.00",
+      "sale_price": "100.00",
+      "default?": false,
+      "photos": [
+        {
+          "thumbnail_url": "https://images.unsplash.com/photo-1448526478325-616f2b15b04e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+          "url": "https://images.unsplash.com/photo-1448526478325-616f2b15b04e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1567&q=80"
+        },
+        {
+          "thumbnail_url": "https://images.unsplash.com/photo-1519098635131-4c8f806d1e82?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80",
+          "url": "https://images.unsplash.com/photo-1519098635131-4c8f806d1e82?ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"
+        },
+        {
+          "thumbnail_url": "https://images.unsplash.com/photo-1483056293146-9eac9521932f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+          "url": "https://images.unsplash.com/photo-1483056293146-9eac9521932f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2850&q=80"
+        },
+        {
+          "thumbnail_url": "https://images.unsplash.com/photo-1515992854631-13de43baeba1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+          "url": "https://images.unsplash.com/photo-1515992854631-13de43baeba1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80"
+        },
+        {
+          "thumbnail_url": "https://images.unsplash.com/photo-1525141741567-f89ef016dfeb?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80",
+          "url": "https://images.unsplash.com/photo-1525141741567-f89ef016dfeb?ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"
+        },
+        {
+          "thumbnail_url": "https://images.unsplash.com/photo-1418985991508-e47386d96a71?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+          "url": "https://images.unsplash.com/photo-1418985991508-e47386d96a71?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80"
+        }
+      ],
+      "skus": {
+        "560861": {
+          "quantity": 8,
+          "size": "XS"
+        },
+        "560862": {
+          "quantity": 16,
+          "size": "S"
+        },
+        "560863": {
+          "quantity": 17,
+          "size": "M"
+        },
+        "560864": {
+          "quantity": 10,
+          "size": "L"
+        },
+        "560865": {
+          "quantity": 15,
+          "size": "XL"
+        },
+        "560866": {
+          "quantity": 6,
+          "size": "XXL"
+        }
+      }
+    },
+    {
+      "style_id": 96892,
+      "name": "Dark Grey & Black",
+      "original_price": "170.00",
+      "sale_price": null,
+      "default?": false,
+      "photos": [
+        {
+          "thumbnail_url": "https://images.unsplash.com/photo-1514866726862-0f081731e63f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+          "url": "https://images.unsplash.com/photo-1514866726862-0f081731e63f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80"
+        },
+        {
+          "thumbnail_url": "https://images.unsplash.com/photo-1519689373023-dd07c7988603?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+          "url": "https://images.unsplash.com/photo-1519689373023-dd07c7988603?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80"
+        },
+        {
+          "thumbnail_url": "https://images.unsplash.com/photo-1506932248762-69d978912b80?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80",
+          "url": "https://images.unsplash.com/photo-1506932248762-69d978912b80?ixlib=rb-1.2.1&auto=format&fit=crop&w=2089&q=80"
+        },
+        {
+          "thumbnail_url": "https://images.unsplash.com/photo-1535639818669-c059d2f038e6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+          "url": "https://images.unsplash.com/photo-1535639818669-c059d2f038e6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80"
+        },
+        {
+          "thumbnail_url": "https://images.unsplash.com/photo-1498098662025-04e60a212db4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+          "url": "https://images.unsplash.com/photo-1498098662025-04e60a212db4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80"
+        },
+        {
+          "thumbnail_url": "https://images.unsplash.com/photo-1421941027568-40ab08ee5592?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+          "url": "https://images.unsplash.com/photo-1421941027568-40ab08ee5592?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1651&q=80"
+        }
+      ],
+      "skus": {
+        "560867": {
+          "quantity": 8,
+          "size": "XS"
+        },
+        "560868": {
+          "quantity": 16,
+          "size": "S"
+        },
+        "560869": {
+          "quantity": 17,
+          "size": "M"
+        },
+        "560870": {
+          "quantity": 10,
+          "size": "L"
+        },
+        "560871": {
+          "quantity": 15,
+          "size": "XL"
+        },
+        "560872": {
+          "quantity": 6,
+          "size": "XXL"
+        }
+      }
+    }
+  ],
+  "related": [
+    {
+      "id": 18079,
+      "campus": "hr-bld",
+      "name": "Bright Future Sunglasses",
+      "slogan": "You've got to wear shades",
+      "description": "Where you're going you might not need roads, but you definitely need some shades. Give those baby blues a rest and let the future shine bright on these timeless lenses.",
+      "category": "Accessories",
+      "default_price": "69.00",
+      "created_at": "2021-02-23T05:08:00.350Z",
+      "updated_at": "2021-02-23T05:08:00.350Z",
+      "features": [
+        {
+          "feature": "Lenses",
+          "value": "Ultrasheen"
+        },
+        {
+          "feature": "UV Protection",
+          "value": null
+        },
+        {
+          "feature": "Frames",
+          "value": "LightCompose"
+        }
+      ],
+      "reviews": [
+        {
+          "review_id": 288513,
+          "rating": 1,
+          "summary": "Title",
+          "recommend": false,
+          "response": null,
+          "body": "This review has not yet been reported! WHOOT!",
+          "date": "2021-03-09T00:00:00.000Z",
+          "reviewer_name": "Taylor Smart",
+          "helpfulness": 1,
+          "photos": []
+        },
+        {
+          "review_id": 288520,
+          "rating": 5,
+          "summary": "fews",
+          "recommend": false,
+          "response": null,
+          "body": "cwcwceesafeag",
+          "date": "2021-03-09T00:00:00.000Z",
+          "reviewer_name": "Taylor Smart",
+          "helpfulness": 0,
+          "photos": []
+        },
+        {
+          "review_id": 288519,
+          "rating": 1,
+          "summary": "testeeer",
+          "recommend": false,
+          "response": null,
+          "body": "fesssa",
+          "date": "2021-03-09T00:00:00.000Z",
+          "reviewer_name": "Taylor Smart",
+          "helpfulness": 0,
+          "photos": []
+        },
+        {
+          "review_id": 288517,
+          "rating": 1,
+          "summary": "testeeer",
+          "recommend": false,
+          "response": null,
+          "body": "cdsacesfaesa",
+          "date": "2021-03-09T00:00:00.000Z",
+          "reviewer_name": "Taylor Smart",
+          "helpfulness": 0,
+          "photos": []
+        },
+        {
+          "review_id": 288516,
+          "rating": 3,
+          "summary": "testeeer",
+          "recommend": false,
+          "response": null,
+          "body": "Tyhis is a test body",
+          "date": "2021-03-09T00:00:00.000Z",
+          "reviewer_name": "Taylor Smart",
+          "helpfulness": 0,
+          "photos": []
+        }
+      ],
+      "styles": [
+        {
+          "style_id": 96893,
+          "name": "Black Lenses & Black Frame",
+          "original_price": "69.00",
+          "sale_price": null,
+          "default?": false,
+          "photos": [
+            {
+              "thumbnail_url": null,
+              "url": null
+            }
+          ],
+          "skus": {
+            "null": {
+              "quantity": null,
+              "size": null
+            }
+          }
+        },
+        {
+          "style_id": 96894,
+          "name": "Black Lenses & Gold Frame",
+          "original_price": "69.00",
+          "sale_price": null,
+          "default?": true,
+          "photos": [
+            {
+              "thumbnail_url": null,
+              "url": null
+            }
+          ],
+          "skus": {
+            "null": {
+              "quantity": null,
+              "size": null
+            }
+          }
+        },
+        {
+          "style_id": 96895,
+          "name": "Gold Lenses & Black Frame",
+          "original_price": "69.00",
+          "sale_price": null,
+          "default?": false,
+          "photos": [
+            {
+              "thumbnail_url": null,
+              "url": null
+            }
+          ],
+          "skus": {
+            "null": {
+              "quantity": null,
+              "size": null
+            }
+          }
+        },
+        {
+          "style_id": 96896,
+          "name": "Gold Lenses & Gold Frame",
+          "original_price": "69.00",
+          "sale_price": null,
+          "default?": false,
+          "photos": [
+            {
+              "thumbnail_url": null,
+              "url": null
+            }
+          ],
+          "skus": {
+            "null": {
+              "quantity": null,
+              "size": null
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 18080,
+      "campus": "hr-bld",
+      "name": "Morning Joggers",
+      "slogan": "Make yourself a morning person",
+      "description": "Whether you're a morning person or not.  Whether you're gym bound or not.  Everyone looks good in joggers.",
+      "category": "Pants",
+      "default_price": "40.00",
+      "created_at": "2021-02-23T05:08:00.350Z",
+      "updated_at": "2021-02-23T05:08:00.350Z",
+      "features": [
+        {
+          "feature": "Fabric",
+          "value": "100% Cotton"
+        },
+        {
+          "feature": "Cut",
+          "value": "Skinny"
+        }
+      ],
+      "reviews": [
+        {
+          "review_id": 288791,
+          "rating": 3,
+          "summary": "Decent at best",
+          "recommend": false,
+          "response": null,
+          "body": "jkldsfjksdkjlfdsjlkdsajkldsfkljsdlkjdsakljdsakjldkjdassdakjldskljasdkjlsd",
+          "date": "2021-03-11T00:00:00.000Z",
+          "reviewer_name": "sdsdsdsd",
+          "helpfulness": 6,
+          "photos": []
+        },
+        {
+          "review_id": 288807,
+          "rating": 4,
+          "summary": "Honestly? Prettty good ",
+          "recommend": true,
+          "response": null,
+          "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu",
+          "date": "2021-03-12T00:00:00.000Z",
+          "reviewer_name": "Jimmy",
+          "helpfulness": 1,
+          "photos": []
+        },
+        {
+          "review_id": 406886,
+          "rating": 5,
+          "summary": "Ahhhhhhhh!!!!",
+          "recommend": true,
+          "response": null,
+          "body": "Wowzer!!!",
+          "date": "2021-06-15T00:00:00.000Z",
+          "reviewer_name": "Jimmy Bob",
+          "helpfulness": 0,
+          "photos": [
+            {
+              "id": 730739,
+              "url": "https://images.unsplash.com/photo-1543466835-00a7907e9de1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=967&q=80"
+            }
+          ]
+        },
+        {
+          "review_id": 406869,
+          "rating": 5,
+          "summary": "Ahhhhhhhh!!!!",
+          "recommend": true,
+          "response": null,
+          "body": "Wowzer!!!",
+          "date": "2021-06-15T00:00:00.000Z",
+          "reviewer_name": "Jimmy Bob",
+          "helpfulness": 0,
+          "photos": []
+        },
+        {
+          "review_id": 348558,
+          "rating": 5,
+          "summary": "My legs look like tree trunks in these.",
+          "recommend": false,
+          "response": null,
+          "body": "I feel bad because I don't jog in them - I only sprint.",
+          "date": "2021-05-01T00:00:00.000Z",
+          "reviewer_name": "JjoggingIsSlow",
+          "helpfulness": 0,
+          "photos": []
+        },
+        {
+          "review_id": 308799,
+          "rating": 4,
+          "summary": "Summary",
+          "recommend": true,
+          "response": null,
+          "body": "The body must be 50 characters long.brrrrrrrrrrrrr",
+          "date": "2021-03-20T00:00:00.000Z",
+          "reviewer_name": "nickname",
+          "helpfulness": 0,
+          "photos": []
+        },
+        {
+          "review_id": 308798,
+          "rating": 5,
+          "summary": "summary",
+          "recommend": false,
+          "response": null,
+          "body": "body must be 50 chars. blah blah blah blah blah blah",
+          "date": "2021-03-20T00:00:00.000Z",
+          "reviewer_name": "nickname",
+          "helpfulness": 0,
+          "photos": []
+        },
+        {
+          "review_id": 308797,
+          "rating": 3,
+          "summary": "This is the summary",
+          "recommend": false,
+          "response": null,
+          "body": "This is the body. This must be 50 characters long.",
+          "date": "2021-03-20T00:00:00.000Z",
+          "reviewer_name": "Nickname",
+          "helpfulness": 0,
+          "photos": []
+        },
+        {
+          "review_id": 308796,
+          "rating": 2,
+          "summary": "fdaad",
+          "recommend": false,
+          "response": null,
+          "body": ";alskdfj;aslkdjf;asldkfja;sldkfja;sldkfjaa;slkdfja;slkdfj",
+          "date": "2021-03-20T00:00:00.000Z",
+          "reviewer_name": "fdsa",
+          "helpfulness": 0,
+          "photos": []
+        },
+        {
+          "review_id": 308795,
+          "rating": 3,
+          "summary": "fdsasdf",
+          "recommend": true,
+          "response": null,
+          "body": "asdfsdfadsfagdfgsdfgasdfdsasfeadfdsavdsardvdsarvsdf",
+          "date": "2021-03-20T00:00:00.000Z",
+          "reviewer_name": "nick",
+          "helpfulness": 0,
+          "photos": []
+        },
+        {
+          "review_id": 308794,
+          "rating": 2,
+          "summary": "Summary here",
+          "recommend": true,
+          "response": null,
+          "body": "Body goes here. brrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr",
+          "date": "2021-03-20T00:00:00.000Z",
+          "reviewer_name": "nickname",
+          "helpfulness": 0,
+          "photos": []
+        },
+        {
+          "review_id": 308793,
+          "rating": 4,
+          "summary": "This is the summary",
+          "recommend": true,
+          "response": null,
+          "body": "This is the body. It must be 50 characters long. boop",
+          "date": "2021-03-20T00:00:00.000Z",
+          "reviewer_name": "nickname",
+          "helpfulness": 0,
+          "photos": []
+        },
+        {
+          "review_id": 308792,
+          "rating": 4,
+          "summary": "This is where the summary goes",
+          "recommend": true,
+          "response": null,
+          "body": "This is where the body goes. It must be at least 50 characters.",
+          "date": "2021-03-20T00:00:00.000Z",
+          "reviewer_name": "Nickname",
+          "helpfulness": 0,
+          "photos": []
+        },
+        {
+          "review_id": 289049,
+          "rating": 5,
+          "summary": "title",
+          "recommend": true,
+          "response": null,
+          "body": "body",
+          "date": "2021-03-13T00:00:00.000Z",
+          "reviewer_name": "username",
+          "helpfulness": 0,
+          "photos": []
+        },
+        {
+          "review_id": 289048,
+          "rating": 5,
+          "summary": "title",
+          "recommend": true,
+          "response": null,
+          "body": "body",
+          "date": "2021-03-13T00:00:00.000Z",
+          "reviewer_name": "username",
+          "helpfulness": 0,
+          "photos": []
+        },
+        {
+          "review_id": 289047,
+          "rating": 5,
+          "summary": "title",
+          "recommend": true,
+          "response": null,
+          "body": "body",
+          "date": "2021-03-13T00:00:00.000Z",
+          "reviewer_name": "username",
+          "helpfulness": 0,
+          "photos": []
+        },
+        {
+          "review_id": 289046,
+          "rating": 5,
+          "summary": "title",
+          "recommend": true,
+          "response": null,
+          "body": "body",
+          "date": "2021-03-13T00:00:00.000Z",
+          "reviewer_name": "username",
+          "helpfulness": 0,
+          "photos": []
+        },
+        {
+          "review_id": 289035,
+          "rating": 5,
+          "summary": "title",
+          "recommend": true,
+          "response": null,
+          "body": "body",
+          "date": "2021-03-13T00:00:00.000Z",
+          "reviewer_name": "username",
+          "helpfulness": 0,
+          "photos": []
+        }
+      ],
+      "styles": [
+        {
+          "style_id": 96897,
+          "name": "Black",
+          "original_price": "40.00",
+          "sale_price": null,
+          "default?": true,
+          "photos": [
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1552902865-b72c031ac5ea?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1552902865-b72c031ac5ea?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1492447105260-2e947425b5cc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1492447105260-2e947425b5cc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1548133464-29abc661eb5c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1548133464-29abc661eb5c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1500340520802-1687634cbe38?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1500340520802-1687634cbe38?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1559304022-afbf28f53c4d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1559304022-afbf28f53c4d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1656&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1554921148-83d8ceda2095?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1554921148-83d8ceda2095?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80"
+            }
+          ],
+          "skus": {
+            "560873": {
+              "quantity": 8,
+              "size": "XS"
+            },
+            "560874": {
+              "quantity": 16,
+              "size": "S"
+            },
+            "560875": {
+              "quantity": 17,
+              "size": "M"
+            },
+            "560876": {
+              "quantity": 10,
+              "size": "L"
+            },
+            "560877": {
+              "quantity": 15,
+              "size": "XL"
+            },
+            "560878": {
+              "quantity": 6,
+              "size": "XXL"
+            }
+          }
+        },
+        {
+          "style_id": 96898,
+          "name": "Grey",
+          "original_price": "40.00",
+          "sale_price": null,
+          "default?": false,
+          "photos": [
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1562542082-519ebcdb43e6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1562542082-519ebcdb43e6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2057&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1562542132-8555e1b583f3?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1562542132-8555e1b583f3?ixlib=rb-1.2.1&auto=format&fit=crop&w=2057&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1562542096-218d8f9760bc?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1562542096-218d8f9760bc?ixlib=rb-1.2.1&auto=format&fit=crop&w=2057&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1562542119-19d015b93c45?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1562542119-19d015b93c45?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2057&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1516684810863-e49c82f1f092?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1516684810863-e49c82f1f092?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=965&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1490427712608-588e68359dbd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1490427712608-588e68359dbd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80"
+            }
+          ],
+          "skus": {
+            "560879": {
+              "quantity": 8,
+              "size": "XS"
+            },
+            "560880": {
+              "quantity": 16,
+              "size": "S"
+            },
+            "560881": {
+              "quantity": 17,
+              "size": "M"
+            },
+            "560882": {
+              "quantity": 10,
+              "size": "L"
+            },
+            "560883": {
+              "quantity": 15,
+              "size": "XL"
+            },
+            "560884": {
+              "quantity": 6,
+              "size": "XXL"
+            }
+          }
+        },
+        {
+          "style_id": 96899,
+          "name": "Goldenrod",
+          "original_price": "40.00",
+          "sale_price": "35.00",
+          "default?": false,
+          "photos": [
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1530073391204-7b34a1497281?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1530073391204-7b34a1497281?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1482876555840-f31c5ebbff1c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1482876555840-f31c5ebbff1c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1651&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1426647451887-5f2be01918a9?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1426647451887-5f2be01918a9?ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1517438476312-10d79c077509?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1517438476312-10d79c077509?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1485646979142-d4abb57a876f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1485646979142-d4abb57a876f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2089&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=962&q=80"
+            }
+          ],
+          "skus": {
+            "560885": {
+              "quantity": 8,
+              "size": "XS"
+            },
+            "560886": {
+              "quantity": 16,
+              "size": "S"
+            },
+            "560887": {
+              "quantity": 17,
+              "size": "M"
+            },
+            "560888": {
+              "quantity": 10,
+              "size": "L"
+            },
+            "560889": {
+              "quantity": 15,
+              "size": "XL"
+            },
+            "560890": {
+              "quantity": 6,
+              "size": "XXL"
+            }
+          }
+        },
+        {
+          "style_id": 96900,
+          "name": "Maroon",
+          "original_price": "40.00",
+          "sale_price": "35.00",
+          "default?": false,
+          "photos": [
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1519857609704-61e751edba25?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1519857609704-61e751edba25?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1499714832275-d6205d94c35d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1499714832275-d6205d94c35d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1532244769164-ff64ddeefa45?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1532244769164-ff64ddeefa45?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1549540806-76ce9007b674?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1549540806-76ce9007b674?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1554136920-a1df2909d8f2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1554136920-a1df2909d8f2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1541214880206-03318856c6c9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1541214880206-03318856c6c9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80"
+            }
+          ],
+          "skus": {
+            "560891": {
+              "quantity": 8,
+              "size": "XS"
+            },
+            "560892": {
+              "quantity": 16,
+              "size": "S"
+            },
+            "560893": {
+              "quantity": 17,
+              "size": "M"
+            },
+            "560894": {
+              "quantity": 10,
+              "size": "L"
+            },
+            "560895": {
+              "quantity": 15,
+              "size": "XL"
+            },
+            "560896": {
+              "quantity": 6,
+              "size": "XXL"
+            }
+          }
+        },
+        {
+          "style_id": 96901,
+          "name": "Chartreuse",
+          "original_price": "40.00",
+          "sale_price": "25.00",
+          "default?": false,
+          "photos": [
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1530073391204-7b34a1497281?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1530073391204-7b34a1497281?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1482876555840-f31c5ebbff1c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1482876555840-f31c5ebbff1c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1651&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1426647451887-5f2be01918a9?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1426647451887-5f2be01918a9?ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1517438476312-10d79c077509?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1517438476312-10d79c077509?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1485646979142-d4abb57a876f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1485646979142-d4abb57a876f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2089&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=962&q=80"
+            }
+          ],
+          "skus": {
+            "560897": {
+              "quantity": 8,
+              "size": "XS"
+            },
+            "560898": {
+              "quantity": 16,
+              "size": "S"
+            },
+            "560899": {
+              "quantity": 17,
+              "size": "M"
+            },
+            "560900": {
+              "quantity": 10,
+              "size": "L"
+            },
+            "560901": {
+              "quantity": 15,
+              "size": "XL"
+            },
+            "560902": {
+              "quantity": 6,
+              "size": "XXL"
+            }
+          }
+        },
+        {
+          "style_id": 96902,
+          "name": "White",
+          "original_price": "40.00",
+          "sale_price": null,
+          "default?": false,
+          "photos": [
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1510390099355-23e690d8129d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1510390099355-23e690d8129d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1547257965-087be799b084?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1547257965-087be799b084?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1510217167326-549ae78e4738?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1510217167326-549ae78e4738?ixlib=rb-1.2.1&auto=format&fit=crop&w=668&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1470282312847-28b943046dc1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1470282312847-28b943046dc1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1652&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1552904219-f4b87efe8792?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1552904219-f4b87efe8792?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=666&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1519241978701-4302ab53de1b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1519241978701-4302ab53de1b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=80"
+            }
+          ],
+          "skus": {
+            "560903": {
+              "quantity": 8,
+              "size": "XS"
+            },
+            "560904": {
+              "quantity": 16,
+              "size": "S"
+            },
+            "560905": {
+              "quantity": 17,
+              "size": "M"
+            },
+            "560906": {
+              "quantity": 10,
+              "size": "L"
+            },
+            "560907": {
+              "quantity": 15,
+              "size": "XL"
+            },
+            "560908": {
+              "quantity": 6,
+              "size": "XXL"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 18085,
+      "campus": "hr-bld",
+      "name": "YEasy 350",
+      "slogan": "Just jumped over jumpman",
+      "description": "These stretchy knit shoes show off asymmetrical lacing and a big sculpted rubber midsole. In a nod to adidas soccer heritage.",
+      "category": "Kicks",
+      "default_price": "450.00",
+      "created_at": "2021-02-23T05:08:00.350Z",
+      "updated_at": "2021-02-23T05:08:00.350Z",
+      "features": [
+        {
+          "feature": "Sole",
+          "value": "Rubber"
+        },
+        {
+          "feature": "Material",
+          "value": "FullControlSkin"
+        },
+        {
+          "feature": "Stitching",
+          "value": "Double Stitch"
+        }
+      ],
+      "reviews": [
+        {
+          "review_id": 288665,
+          "rating": 2,
+          "summary": "testeeer",
+          "recommend": false,
+          "response": null,
+          "body": "hi",
+          "date": "2021-03-11T00:00:00.000Z",
+          "reviewer_name": "Taylor Smart",
+          "helpfulness": 2,
+          "photos": []
+        },
+        {
+          "review_id": 288501,
+          "rating": 5,
+          "summary": "Yeezy the best",
+          "recommend": true,
+          "response": null,
+          "body": "Because ye is the best",
+          "date": "2021-03-09T00:00:00.000Z",
+          "reviewer_name": "Ye",
+          "helpfulness": 2,
+          "photos": []
+        },
+        {
+          "review_id": 288583,
+          "rating": 3,
+          "summary": "fffeee",
+          "recommend": false,
+          "response": null,
+          "body": "daafsesff",
+          "date": "2021-03-09T00:00:00.000Z",
+          "reviewer_name": "Taylor Smart",
+          "helpfulness": 1,
+          "photos": []
+        },
+        {
+          "review_id": 288768,
+          "rating": 4,
+          "summary": "Pretty decent",
+          "recommend": true,
+          "response": null,
+          "body": "Shortish in the arms",
+          "date": "2021-03-11T00:00:00.000Z",
+          "reviewer_name": "Jacksonnnnn",
+          "helpfulness": 0,
+          "photos": []
+        },
+        {
+          "review_id": 348574,
+          "rating": 5,
+          "summary": "so review",
+          "recommend": false,
+          "response": null,
+          "body": "left is best, right is worst. I put them on backwards.",
+          "date": "2021-05-01T00:00:00.000Z",
+          "reviewer_name": "KrissKross",
+          "helpfulness": 0,
+          "photos": []
+        },
+        {
+          "review_id": 348571,
+          "rating": 1,
+          "summary": "",
+          "recommend": false,
+          "response": null,
+          "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+          "date": "2021-05-01T00:00:00.000Z",
+          "reviewer_name": "Lori",
+          "helpfulness": 0,
+          "photos": []
+        },
+        {
+          "review_id": 348565,
+          "rating": 3,
+          "summary": "",
+          "recommend": false,
+          "response": null,
+          "body": "GOodGOodGOodGOodGOodGOodGOodGOodGOodGOodGOodGOodGOodGOod",
+          "date": "2021-05-01T00:00:00.000Z",
+          "reviewer_name": "Yeezy",
+          "helpfulness": 0,
+          "photos": []
+        },
+        {
+          "review_id": 348561,
+          "rating": 5,
+          "summary": "this is a good review",
+          "recommend": false,
+          "response": null,
+          "body": "I give this review 5 stars. good good good good good.",
+          "date": "2021-05-01T00:00:00.000Z",
+          "reviewer_name": "bobross",
+          "helpfulness": 0,
+          "photos": []
+        },
+        {
+          "review_id": 348560,
+          "rating": 3,
+          "summary": "",
+          "recommend": false,
+          "response": null,
+          "body": "Ég get ekki einu sinni sagt þér hversu mikið ég elska kolvetni",
+          "date": "2021-05-01T00:00:00.000Z",
+          "reviewer_name": "Thor",
+          "helpfulness": 0,
+          "photos": []
+        },
+        {
+          "review_id": 348535,
+          "rating": 2,
+          "summary": "askdf;alskjdg;lkj;",
+          "recommend": true,
+          "response": null,
+          "body": "afsdkfjsal;dkgjls;djkgl;sjdgl;asjdgl;sajkdg;lsdjg;lksjdg;ljweasdgjaskjdg;ljhnmdskfjl",
+          "date": "2021-05-01T00:00:00.000Z",
+          "reviewer_name": "ajlkjsdlgkj",
+          "helpfulness": 0,
+          "photos": []
+        },
+        {
+          "review_id": 288612,
+          "rating": 1,
+          "summary": "NNEW REVEIOW",
+          "recommend": false,
+          "response": null,
+          "body": "NEOIHJFJEKLSJIOJFKL:JIeee",
+          "date": "2021-03-10T00:00:00.000Z",
+          "reviewer_name": "Taylor Smart",
+          "helpfulness": 0,
+          "photos": []
+        },
+        {
+          "review_id": 288594,
+          "rating": 1,
+          "summary": "HIIII",
+          "recommend": false,
+          "response": null,
+          "body": "I GOT MAD VOCALS TO!!!",
+          "date": "2021-03-10T00:00:00.000Z",
+          "reviewer_name": "The Weeknd",
+          "helpfulness": 0,
+          "photos": []
+        },
+        {
+          "review_id": 289103,
+          "rating": 1,
+          "summary": "Title",
+          "recommend": false,
+          "response": null,
+          "body": "test review",
+          "date": "2021-03-14T00:00:00.000Z",
+          "reviewer_name": "Taylor Smart",
+          "helpfulness": 0,
+          "photos": []
+        },
+        {
+          "review_id": 289094,
+          "rating": 5,
+          "summary": "Kanye is the best!",
+          "recommend": true,
+          "response": null,
+          "body": "Yeezy is the best even though he's a little weird now ",
+          "date": "2021-03-13T00:00:00.000Z",
+          "reviewer_name": "Dave",
+          "helpfulness": 0,
+          "photos": [
+            {
+              "id": 496790,
+              "url": "https://images.unsplash.com/photo-1615628362327-5f35b8adca5e?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80"
+            }
+          ]
+        },
+        {
+          "review_id": 289093,
+          "rating": 3,
+          "summary": "testeeer",
+          "recommend": false,
+          "response": null,
+          "body": "This review has characteristics",
+          "date": "2021-03-13T00:00:00.000Z",
+          "reviewer_name": "Taylor Smart",
+          "helpfulness": 0,
+          "photos": []
+        }
+      ],
+      "styles": [
+        {
+          "style_id": 96923,
+          "name": "Zebra Stripe",
+          "original_price": "900.00",
+          "sale_price": null,
+          "default?": false,
+          "photos": [
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1551489186-cf8726f514f8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1551489186-cf8726f514f8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1507920676663-3b72429774ff?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1507920676663-3b72429774ff?ixlib=rb-1.2.1&auto=format&fit=crop&w=1567&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1544376664-80b17f09d399?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1544376664-80b17f09d399?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1525&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1513531926349-466f15ec8cc7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1513531926349-466f15ec8cc7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1517278322228-3fe7a86cf6f0?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1517278322228-3fe7a86cf6f0?ixlib=rb-1.2.1&auto=format&fit=crop&w=1567&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1517720359744-6d12f8a09b10?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1517720359744-6d12f8a09b10?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1567&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1530821875964-91927b611bad?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1530821875964-91927b611bad?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1519862170344-6cd5e49cb996?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1519862170344-6cd5e49cb996?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1558014356-f7c41bc744f7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1558014356-f7c41bc744f7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1542818212-9899bafcb9db?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1542818212-9899bafcb9db?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1526&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1515110371136-7e393289662c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1515110371136-7e393289662c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1656&q=80"
+            }
+          ],
+          "skus": {
+            "561084": {
+              "quantity": 14,
+              "size": "7"
+            },
+            "561085": {
+              "quantity": 25,
+              "size": "7.5"
+            },
+            "561086": {
+              "quantity": 9,
+              "size": "8"
+            },
+            "561087": {
+              "quantity": 2,
+              "size": "8.5"
+            },
+            "561088": {
+              "quantity": 18,
+              "size": "9"
+            },
+            "561089": {
+              "quantity": 12,
+              "size": "9.5"
+            },
+            "561090": {
+              "quantity": 10,
+              "size": "10"
+            },
+            "561091": {
+              "quantity": 18,
+              "size": "10.5"
+            },
+            "561092": {
+              "quantity": 11,
+              "size": "11"
+            },
+            "561093": {
+              "quantity": 35,
+              "size": "11.5"
+            },
+            "561094": {
+              "quantity": 25,
+              "size": "12"
+            }
+          }
+        },
+        {
+          "style_id": 96924,
+          "name": "Oreo",
+          "original_price": "750.00",
+          "sale_price": null,
+          "default?": false,
+          "photos": [
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1520904549193-5ab0027b3fa6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1520904549193-5ab0027b3fa6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1517720359744-6d12f8a09b10?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1517720359744-6d12f8a09b10?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1567&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1530821875964-91927b611bad?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1530821875964-91927b611bad?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1519862170344-6cd5e49cb996?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1519862170344-6cd5e49cb996?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1507920676663-3b72429774ff?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1507920676663-3b72429774ff?ixlib=rb-1.2.1&auto=format&fit=crop&w=1567&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1544376664-80b17f09d399?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1544376664-80b17f09d399?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1525&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1513531926349-466f15ec8cc7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1513531926349-466f15ec8cc7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1517278322228-3fe7a86cf6f0?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1517278322228-3fe7a86cf6f0?ixlib=rb-1.2.1&auto=format&fit=crop&w=1567&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1517720359744-6d12f8a09b10?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1517720359744-6d12f8a09b10?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1567&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1530821875964-91927b611bad?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1530821875964-91927b611bad?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1519862170344-6cd5e49cb996?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1519862170344-6cd5e49cb996?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80"
+            }
+          ],
+          "skus": {
+            "561095": {
+              "quantity": 14,
+              "size": "7"
+            },
+            "561096": {
+              "quantity": 25,
+              "size": "7.5"
+            },
+            "561097": {
+              "quantity": 9,
+              "size": "8"
+            },
+            "561098": {
+              "quantity": 2,
+              "size": "8.5"
+            },
+            "561099": {
+              "quantity": 18,
+              "size": "9"
+            },
+            "561100": {
+              "quantity": 12,
+              "size": "9.5"
+            },
+            "561101": {
+              "quantity": 10,
+              "size": "10"
+            },
+            "561102": {
+              "quantity": 18,
+              "size": "10.5"
+            },
+            "561103": {
+              "quantity": 11,
+              "size": "11"
+            },
+            "561104": {
+              "quantity": 35,
+              "size": "11.5"
+            },
+            "561105": {
+              "quantity": 25,
+              "size": "12"
+            }
+          }
+        },
+        {
+          "style_id": 96925,
+          "name": "Red Supply",
+          "original_price": "450.00",
+          "sale_price": null,
+          "default?": false,
+          "photos": [
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1473396413399-6717ef7c4093?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1473396413399-6717ef7c4093?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1558014356-f7c41bc744f7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1558014356-f7c41bc744f7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1507920676663-3b72429774ff?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1507920676663-3b72429774ff?ixlib=rb-1.2.1&auto=format&fit=crop&w=1567&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1544376664-80b17f09d399?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1544376664-80b17f09d399?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1525&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1513531926349-466f15ec8cc7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1513531926349-466f15ec8cc7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1517278322228-3fe7a86cf6f0?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1517278322228-3fe7a86cf6f0?ixlib=rb-1.2.1&auto=format&fit=crop&w=1567&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1517720359744-6d12f8a09b10?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1517720359744-6d12f8a09b10?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1567&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1530821875964-91927b611bad?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1530821875964-91927b611bad?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1519862170344-6cd5e49cb996?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1519862170344-6cd5e49cb996?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80"
+            }
+          ],
+          "skus": {
+            "561106": {
+              "quantity": 14,
+              "size": "7"
+            },
+            "561107": {
+              "quantity": 25,
+              "size": "7.5"
+            },
+            "561108": {
+              "quantity": 9,
+              "size": "8"
+            },
+            "561109": {
+              "quantity": 2,
+              "size": "8.5"
+            },
+            "561110": {
+              "quantity": 18,
+              "size": "9"
+            },
+            "561111": {
+              "quantity": 12,
+              "size": "9.5"
+            },
+            "561112": {
+              "quantity": 10,
+              "size": "10"
+            },
+            "561113": {
+              "quantity": 18,
+              "size": "10.5"
+            },
+            "561114": {
+              "quantity": 11,
+              "size": "11"
+            },
+            "561115": {
+              "quantity": 35,
+              "size": "11.5"
+            },
+            "561116": {
+              "quantity": 25,
+              "size": "12"
+            }
+          }
+        },
+        {
+          "style_id": 96926,
+          "name": "White",
+          "original_price": "450.00",
+          "sale_price": null,
+          "default?": true,
+          "photos": [
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1505248254168-1de4e1abfa78?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1505248254168-1de4e1abfa78?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1649&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1507920676663-3b72429774ff?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1507920676663-3b72429774ff?ixlib=rb-1.2.1&auto=format&fit=crop&w=1567&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1544376664-80b17f09d399?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1544376664-80b17f09d399?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1525&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1513531926349-466f15ec8cc7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1513531926349-466f15ec8cc7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1517278322228-3fe7a86cf6f0?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1517278322228-3fe7a86cf6f0?ixlib=rb-1.2.1&auto=format&fit=crop&w=1567&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1517720359744-6d12f8a09b10?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1517720359744-6d12f8a09b10?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1567&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1530821875964-91927b611bad?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1530821875964-91927b611bad?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1519862170344-6cd5e49cb996?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1519862170344-6cd5e49cb996?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80"
+            }
+          ],
+          "skus": {
+            "561117": {
+              "quantity": 14,
+              "size": "7"
+            },
+            "561118": {
+              "quantity": 25,
+              "size": "7.5"
+            },
+            "561119": {
+              "quantity": 9,
+              "size": "8"
+            },
+            "561120": {
+              "quantity": 2,
+              "size": "8.5"
+            },
+            "561121": {
+              "quantity": 18,
+              "size": "9"
+            },
+            "561122": {
+              "quantity": 12,
+              "size": "9.5"
+            },
+            "561123": {
+              "quantity": 10,
+              "size": "10"
+            },
+            "561124": {
+              "quantity": 18,
+              "size": "10.5"
+            },
+            "561125": {
+              "quantity": 11,
+              "size": "11"
+            },
+            "561126": {
+              "quantity": 35,
+              "size": "11.5"
+            },
+            "561127": {
+              "quantity": 25,
+              "size": "12"
+            }
+          }
+        },
+        {
+          "style_id": 96927,
+          "name": "Black",
+          "original_price": "950.00",
+          "sale_price": null,
+          "default?": false,
+          "photos": [
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1519482816300-1490fdf2c2bd?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1519482816300-1490fdf2c2bd?ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1542818212-9899bafcb9db?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1542818212-9899bafcb9db?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1526&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1515110371136-7e393289662c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1515110371136-7e393289662c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1656&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1512521952190-7e1a47820ff4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1512521952190-7e1a47820ff4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=978&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1470434767159-ac7bf1b43351?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1470434767159-ac7bf1b43351?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1547597456-4c18a06d9073?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1547597456-4c18a06d9073?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1507920676663-3b72429774ff?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1507920676663-3b72429774ff?ixlib=rb-1.2.1&auto=format&fit=crop&w=1567&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1544376664-80b17f09d399?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1544376664-80b17f09d399?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1525&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1513531926349-466f15ec8cc7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1513531926349-466f15ec8cc7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1517278322228-3fe7a86cf6f0?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1517278322228-3fe7a86cf6f0?ixlib=rb-1.2.1&auto=format&fit=crop&w=1567&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1517720359744-6d12f8a09b10?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1517720359744-6d12f8a09b10?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1567&q=80"
+            }
+          ],
+          "skus": {
+            "561128": {
+              "quantity": 14,
+              "size": "7"
+            },
+            "561129": {
+              "quantity": 25,
+              "size": "7.5"
+            },
+            "561130": {
+              "quantity": 9,
+              "size": "8"
+            },
+            "561131": {
+              "quantity": 2,
+              "size": "8.5"
+            },
+            "561132": {
+              "quantity": 18,
+              "size": "9"
+            },
+            "561133": {
+              "quantity": 12,
+              "size": "9.5"
+            },
+            "561134": {
+              "quantity": 10,
+              "size": "10"
+            },
+            "561135": {
+              "quantity": 18,
+              "size": "10.5"
+            },
+            "561136": {
+              "quantity": 11,
+              "size": "11"
+            },
+            "561137": {
+              "quantity": 35,
+              "size": "11.5"
+            },
+            "561138": {
+              "quantity": 25,
+              "size": "12"
+            }
+          }
+        },
+        {
+          "style_id": 96928,
+          "name": "Pink",
+          "original_price": "450.00",
+          "sale_price": null,
+          "default?": false,
+          "photos": [
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1554735490-80893c93b06f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1554735490-80893c93b06f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1507920676663-3b72429774ff?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1507920676663-3b72429774ff?ixlib=rb-1.2.1&auto=format&fit=crop&w=1567&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1544376664-80b17f09d399?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1544376664-80b17f09d399?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1525&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1513531926349-466f15ec8cc7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1513531926349-466f15ec8cc7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1517278322228-3fe7a86cf6f0?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1517278322228-3fe7a86cf6f0?ixlib=rb-1.2.1&auto=format&fit=crop&w=1567&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1517720359744-6d12f8a09b10?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1517720359744-6d12f8a09b10?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1567&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1530821875964-91927b611bad?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1530821875964-91927b611bad?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1519862170344-6cd5e49cb996?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1519862170344-6cd5e49cb996?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80"
+            }
+          ],
+          "skus": {
+            "561139": {
+              "quantity": 14,
+              "size": "7"
+            },
+            "561140": {
+              "quantity": 25,
+              "size": "7.5"
+            },
+            "561141": {
+              "quantity": 9,
+              "size": "8"
+            },
+            "561142": {
+              "quantity": 2,
+              "size": "8.5"
+            },
+            "561143": {
+              "quantity": 18,
+              "size": "9"
+            },
+            "561144": {
+              "quantity": 12,
+              "size": "9.5"
+            },
+            "561145": {
+              "quantity": 10,
+              "size": "10"
+            },
+            "561146": {
+              "quantity": 18,
+              "size": "10.5"
+            },
+            "561147": {
+              "quantity": 11,
+              "size": "11"
+            },
+            "561148": {
+              "quantity": 35,
+              "size": "11.5"
+            },
+            "561149": {
+              "quantity": 25,
+              "size": "12"
+            }
+          }
+        },
+        {
+          "style_id": 96929,
+          "name": "Green",
+          "original_price": "450.00",
+          "sale_price": null,
+          "default?": false,
+          "photos": [
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1550188053-b4e1e8e4f94f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1550188053-b4e1e8e4f94f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2775&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1507920676663-3b72429774ff?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1507920676663-3b72429774ff?ixlib=rb-1.2.1&auto=format&fit=crop&w=1567&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1544376664-80b17f09d399?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1544376664-80b17f09d399?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1525&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1513531926349-466f15ec8cc7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1513531926349-466f15ec8cc7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1517278322228-3fe7a86cf6f0?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1517278322228-3fe7a86cf6f0?ixlib=rb-1.2.1&auto=format&fit=crop&w=1567&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1517720359744-6d12f8a09b10?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1517720359744-6d12f8a09b10?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1567&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1530821875964-91927b611bad?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1530821875964-91927b611bad?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1519862170344-6cd5e49cb996?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1519862170344-6cd5e49cb996?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80"
+            }
+          ],
+          "skus": {
+            "561150": {
+              "quantity": 14,
+              "size": "7"
+            },
+            "561151": {
+              "quantity": 25,
+              "size": "7.5"
+            },
+            "561152": {
+              "quantity": 9,
+              "size": "8"
+            },
+            "561153": {
+              "quantity": 2,
+              "size": "8.5"
+            },
+            "561154": {
+              "quantity": 18,
+              "size": "9"
+            },
+            "561155": {
+              "quantity": 12,
+              "size": "9.5"
+            },
+            "561156": {
+              "quantity": 10,
+              "size": "10"
+            },
+            "561157": {
+              "quantity": 18,
+              "size": "10.5"
+            },
+            "561158": {
+              "quantity": 11,
+              "size": "11"
+            },
+            "561159": {
+              "quantity": 35,
+              "size": "11.5"
+            },
+            "561160": {
+              "quantity": 25,
+              "size": "12"
+            }
+          }
+        },
+        {
+          "style_id": 96930,
+          "name": "Butter",
+          "original_price": "450.00",
+          "sale_price": "400.00",
+          "default?": false,
+          "photos": [
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1548369735-f548cbe6a294?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1548369735-f548cbe6a294?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=977&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1507920676663-3b72429774ff?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1507920676663-3b72429774ff?ixlib=rb-1.2.1&auto=format&fit=crop&w=1567&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1544376664-80b17f09d399?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1544376664-80b17f09d399?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1525&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1513531926349-466f15ec8cc7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1513531926349-466f15ec8cc7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1517278322228-3fe7a86cf6f0?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1517278322228-3fe7a86cf6f0?ixlib=rb-1.2.1&auto=format&fit=crop&w=1567&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1517720359744-6d12f8a09b10?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1517720359744-6d12f8a09b10?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1567&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1530821875964-91927b611bad?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1530821875964-91927b611bad?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1519862170344-6cd5e49cb996?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1519862170344-6cd5e49cb996?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80"
+            }
+          ],
+          "skus": {
+            "561161": {
+              "quantity": 14,
+              "size": "7"
+            },
+            "561162": {
+              "quantity": 25,
+              "size": "7.5"
+            },
+            "561163": {
+              "quantity": 9,
+              "size": "8"
+            },
+            "561164": {
+              "quantity": 2,
+              "size": "8.5"
+            },
+            "561165": {
+              "quantity": 18,
+              "size": "9"
+            },
+            "561166": {
+              "quantity": 12,
+              "size": "9.5"
+            },
+            "561167": {
+              "quantity": 10,
+              "size": "10"
+            },
+            "561168": {
+              "quantity": 18,
+              "size": "10.5"
+            },
+            "561169": {
+              "quantity": 11,
+              "size": "11"
+            },
+            "561170": {
+              "quantity": 35,
+              "size": "11.5"
+            },
+            "561171": {
+              "quantity": 25,
+              "size": "12"
+            }
+          }
+        },
+        {
+          "style_id": 96931,
+          "name": "Grey",
+          "original_price": "450.00",
+          "sale_price": null,
+          "default?": false,
+          "photos": [
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1536181211993-cf4b2c100475?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1536181211993-cf4b2c100475?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1507920676663-3b72429774ff?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1507920676663-3b72429774ff?ixlib=rb-1.2.1&auto=format&fit=crop&w=1567&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1544376664-80b17f09d399?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1544376664-80b17f09d399?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1525&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1513531926349-466f15ec8cc7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1513531926349-466f15ec8cc7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1517278322228-3fe7a86cf6f0?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1517278322228-3fe7a86cf6f0?ixlib=rb-1.2.1&auto=format&fit=crop&w=1567&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1517720359744-6d12f8a09b10?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1517720359744-6d12f8a09b10?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1567&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1530821875964-91927b611bad?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1530821875964-91927b611bad?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1519862170344-6cd5e49cb996?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1519862170344-6cd5e49cb996?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80"
+            }
+          ],
+          "skus": {
+            "561172": {
+              "quantity": 14,
+              "size": "7"
+            },
+            "561173": {
+              "quantity": 25,
+              "size": "7.5"
+            },
+            "561174": {
+              "quantity": 9,
+              "size": "8"
+            },
+            "561175": {
+              "quantity": 2,
+              "size": "8.5"
+            },
+            "561176": {
+              "quantity": 18,
+              "size": "9"
+            },
+            "561177": {
+              "quantity": 12,
+              "size": "9.5"
+            },
+            "561178": {
+              "quantity": 10,
+              "size": "10"
+            },
+            "561179": {
+              "quantity": 18,
+              "size": "10.5"
+            },
+            "561180": {
+              "quantity": 11,
+              "size": "11"
+            },
+            "561181": {
+              "quantity": 35,
+              "size": "11.5"
+            },
+            "561182": {
+              "quantity": 25,
+              "size": "12"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 18084,
+      "campus": "hr-bld",
+      "name": "Blues Suede Shoes",
+      "slogan": "2019 Stanley Cup Limited Edition",
+      "description": "Touch down in the land of the Delta Blues in the middle of the pouring rain",
+      "category": "Dress Shoes",
+      "default_price": "120.00",
+      "created_at": "2021-02-23T05:08:00.350Z",
+      "updated_at": "2021-02-23T05:08:00.350Z",
+      "features": [
+        {
+          "feature": "Sole",
+          "value": "Rubber"
+        },
+        {
+          "feature": "Material",
+          "value": "FullControlSkin"
+        },
+        {
+          "feature": "Stitching",
+          "value": "Double Stitch"
+        }
+      ],
+      "reviews": [
+        {
+          "review_id": 208582,
+          "rating": 5,
+          "summary": "Ye is good at everything",
+          "recommend": true,
+          "response": "",
+          "body": "I mortgaged my house to pay for these",
+          "date": "2018-12-13T00:00:00.000Z",
+          "reviewer_name": "yecrazy",
+          "helpfulness": 2,
+          "photos": []
+        }
+      ],
+      "styles": [
+        {
+          "style_id": 96918,
+          "name": "White Sole",
+          "original_price": "120.00",
+          "sale_price": null,
+          "default?": false,
+          "photos": [
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1561861422-a549073e547a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1561861422-a549073e547a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1560072810-1cffb09faf0f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1560072810-1cffb09faf0f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80"
+            }
+          ],
+          "skus": {
+            "561029": {
+              "quantity": 14,
+              "size": "7"
+            },
+            "561030": {
+              "quantity": 25,
+              "size": "7.5"
+            },
+            "561031": {
+              "quantity": 9,
+              "size": "8"
+            },
+            "561032": {
+              "quantity": 2,
+              "size": "8.5"
+            },
+            "561033": {
+              "quantity": 18,
+              "size": "9"
+            },
+            "561034": {
+              "quantity": 12,
+              "size": "9.5"
+            },
+            "561035": {
+              "quantity": 10,
+              "size": "10"
+            },
+            "561036": {
+              "quantity": 18,
+              "size": "10.5"
+            },
+            "561037": {
+              "quantity": 11,
+              "size": "11"
+            },
+            "561038": {
+              "quantity": 35,
+              "size": "11.5"
+            },
+            "561039": {
+              "quantity": 25,
+              "size": "12"
+            }
+          }
+        },
+        {
+          "style_id": 96919,
+          "name": "Black Sole",
+          "original_price": "120.00",
+          "sale_price": null,
+          "default?": false,
+          "photos": [
+            {
+              "thumbnail_url": "https://images.unsplash.com/uploads/1412198532414025532c0/6a31309c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/uploads/1412198532414025532c0/6a31309c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1600&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1454024183771-42d54053cd75?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1454024183771-42d54053cd75?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80"
+            }
+          ],
+          "skus": {
+            "561040": {
+              "quantity": 14,
+              "size": "7"
+            },
+            "561041": {
+              "quantity": 25,
+              "size": "7.5"
+            },
+            "561042": {
+              "quantity": 9,
+              "size": "8"
+            },
+            "561043": {
+              "quantity": 2,
+              "size": "8.5"
+            },
+            "561044": {
+              "quantity": 18,
+              "size": "9"
+            },
+            "561045": {
+              "quantity": 12,
+              "size": "9.5"
+            },
+            "561046": {
+              "quantity": 10,
+              "size": "10"
+            },
+            "561047": {
+              "quantity": 18,
+              "size": "10.5"
+            },
+            "561048": {
+              "quantity": 11,
+              "size": "11"
+            },
+            "561049": {
+              "quantity": 35,
+              "size": "11.5"
+            },
+            "561050": {
+              "quantity": 25,
+              "size": "12"
+            }
+          }
+        },
+        {
+          "style_id": 96920,
+          "name": "Tan Sole",
+          "original_price": "120.00",
+          "sale_price": null,
+          "default?": false,
+          "photos": [
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1465124982537-9f918f1e1aaf?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1465124982537-9f918f1e1aaf?ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1449505278894-297fdb3edbc1?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1449505278894-297fdb3edbc1?ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"
+            }
+          ],
+          "skus": {
+            "561051": {
+              "quantity": 14,
+              "size": "7"
+            },
+            "561052": {
+              "quantity": 25,
+              "size": "7.5"
+            },
+            "561053": {
+              "quantity": 9,
+              "size": "8"
+            },
+            "561054": {
+              "quantity": 2,
+              "size": "8.5"
+            },
+            "561055": {
+              "quantity": 18,
+              "size": "9"
+            },
+            "561056": {
+              "quantity": 12,
+              "size": "9.5"
+            },
+            "561057": {
+              "quantity": 10,
+              "size": "10"
+            },
+            "561058": {
+              "quantity": 18,
+              "size": "10.5"
+            },
+            "561059": {
+              "quantity": 11,
+              "size": "11"
+            },
+            "561060": {
+              "quantity": 35,
+              "size": "11.5"
+            },
+            "561061": {
+              "quantity": 25,
+              "size": "12"
+            }
+          }
+        },
+        {
+          "style_id": 96921,
+          "name": "Red Sole",
+          "original_price": "120.00",
+          "sale_price": null,
+          "default?": false,
+          "photos": [
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1454177643390-7f100d1bbeec?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1454177643390-7f100d1bbeec?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80"
+            }
+          ],
+          "skus": {
+            "561062": {
+              "quantity": 14,
+              "size": "7"
+            },
+            "561063": {
+              "quantity": 25,
+              "size": "7.5"
+            },
+            "561064": {
+              "quantity": 9,
+              "size": "8"
+            },
+            "561065": {
+              "quantity": 2,
+              "size": "8.5"
+            },
+            "561066": {
+              "quantity": 18,
+              "size": "9"
+            },
+            "561067": {
+              "quantity": 12,
+              "size": "9.5"
+            },
+            "561068": {
+              "quantity": 10,
+              "size": "10"
+            },
+            "561069": {
+              "quantity": 18,
+              "size": "10.5"
+            },
+            "561070": {
+              "quantity": 11,
+              "size": "11"
+            },
+            "561071": {
+              "quantity": 35,
+              "size": "11.5"
+            },
+            "561072": {
+              "quantity": 25,
+              "size": "12"
+            }
+          }
+        },
+        {
+          "style_id": 96922,
+          "name": "Yellow Sole",
+          "original_price": "120.00",
+          "sale_price": null,
+          "default?": false,
+          "photos": [
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1499013819532-e4ff41b00669?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1499013819532-e4ff41b00669?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1100&q=80"
+            },
+            {
+              "thumbnail_url": "https://images.unsplash.com/photo-1459631836437-1c2824882e3f?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80",
+              "url": "https://images.unsplash.com/photo-1459631836437-1c2824882e3f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"
+            }
+          ],
+          "skus": {
+            "561073": {
+              "quantity": 14,
+              "size": "7"
+            },
+            "561074": {
+              "quantity": 25,
+              "size": "7.5"
+            },
+            "561075": {
+              "quantity": 9,
+              "size": "8"
+            },
+            "561076": {
+              "quantity": 2,
+              "size": "8.5"
+            },
+            "561077": {
+              "quantity": 18,
+              "size": "9"
+            },
+            "561078": {
+              "quantity": 12,
+              "size": "9.5"
+            },
+            "561079": {
+              "quantity": 10,
+              "size": "10"
+            },
+            "561080": {
+              "quantity": 18,
+              "size": "10.5"
+            },
+            "561081": {
+              "quantity": 11,
+              "size": "11"
+            },
+            "561082": {
+              "quantity": 35,
+              "size": "11.5"
+            },
+            "561083": {
+              "quantity": 25,
+              "size": "12"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "reviews": [
+    {
+      "review_id": 288498,
+      "rating": 5,
+      "summary": "Best hoodie of my life",
+      "recommend": true,
+      "response": null,
+      "body": "What more can I say this hoodie absolutely rules",
+      "date": "2021-03-09T00:00:00.000Z",
+      "reviewer_name": "ted",
+      "helpfulness": 44,
+      "photos": []
+    },
+    {
+      "review_id": 348101,
+      "rating": 5,
+      "summary": "This is the most magical product ever",
+      "recommend": true,
+      "response": null,
+      "body": "Here's the story of a lovely lady Who was bringing up three very lovely girls All of them had hair of gold, like their mother, The youngest one in curls Here's the story, of a man named Brady, Who was busy with three boys of his own, They were four men, living all together, Yet they were all alone 'Till the one day when the lady met this fellow And they knew it was much more than a…",
+      "date": "2021-04-25T00:00:00.000Z",
+      "reviewer_name": "KimSoko",
+      "helpfulness": 34,
+      "photos": []
+    },
+    {
+      "review_id": 288814,
+      "rating": 5,
+      "summary": "Oh yes this is good",
+      "recommend": true,
+      "response": null,
+      "body": "sdasdsadasdasdsadasdsadsadsadsadasdasdasdsadsadsadsadasd",
+      "date": "2021-03-12T00:00:00.000Z",
+      "reviewer_name": "dsdsdsd",
+      "helpfulness": 10,
+      "photos": [
+        {
+          "id": 496692,
+          "url": "https://images.unsplash.com/photo-1554260570-9140fd3b7614?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80"
+        }
+      ]
+    },
+    {
+      "review_id": 288611,
+      "rating": 5,
+      "summary": "A fantastic hoodie if you ask me",
+      "recommend": true,
+      "response": null,
+      "body": "It's so good I've written 5 reviews about it",
+      "date": "2021-03-10T00:00:00.000Z",
+      "reviewer_name": "Jimbothy",
+      "helpfulness": 9,
+      "photos": []
+    },
+    {
+      "review_id": 348290,
+      "rating": 4,
+      "summary": "Pretty good",
+      "recommend": true,
+      "response": null,
+      "body": "Pretty decent. Does the trick..... keeps you warm. Isn't the most fashion forward though.",
+      "date": "2021-04-28T00:00:00.000Z",
+      "reviewer_name": "who is it?",
+      "helpfulness": 5,
+      "photos": []
+    },
+    {
+      "review_id": 446424,
+      "rating": 5,
+      "summary": "I love you you love me",
+      "recommend": true,
+      "response": null,
+      "body": "we are very happy together with our cargo pants and shirts",
+      "date": "2021-07-28T00:00:00.000Z",
+      "reviewer_name": "Yes!",
+      "helpfulness": 4,
+      "photos": [
+        {
+          "id": 808675,
+          "url": "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/other/cat_relaxing_on_patio_other/1800x1200_cat_relaxing_on_patio_other.jpg"
+        }
+      ]
+    },
+    {
+      "review_id": 348553,
+      "rating": 5,
+      "summary": "To perfect to keep",
+      "recommend": false,
+      "response": null,
+      "body": "Will be returning. I get too much attention from da boyzz",
+      "date": "2021-05-01T00:00:00.000Z",
+      "reviewer_name": "toohott",
+      "helpfulness": 4,
+      "photos": []
+    },
+    {
+      "review_id": 348552,
+      "rating": 4,
+      "summary": "much good",
+      "recommend": false,
+      "response": null,
+      "body": "noicenoicenoicenoicenoicenoicenoicenoicenoicenoice",
+      "date": "2021-05-01T00:00:00.000Z",
+      "reviewer_name": "much",
+      "helpfulness": 3,
+      "photos": []
+    },
+    {
+      "review_id": 288820,
+      "rating": 4,
+      "summary": "If this test works itll be insane",
+      "recommend": true,
+      "response": null,
+      "body": "kjsdakljsadkjlsadkljdsakljsdakskskjdskjldsalkjasdkljsdsdksadkjdsakljsadjklsad",
+      "date": "2021-03-12T00:00:00.000Z",
+      "reviewer_name": "jim",
+      "helpfulness": 2,
+      "photos": [
+        {
+          "id": 496694,
+          "url": "https://images.unsplash.com/photo-1615486761936-d82f225dfa2a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=934&q=80"
+        },
+        {
+          "id": 496695,
+          "url": "https://images.unsplash.com/photo-1611095567319-2f4c389168a9?ixid=MXwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1502&q=80"
+        }
+      ]
+    },
+    {
+      "review_id": 407346,
+      "rating": 5,
+      "summary": "CO1712 is AWESOME!",
+      "recommend": true,
+      "response": null,
+      "body": "Each cohort comprises of great minds and attitudes that want to succeed in a demanding. Anything is possible when you put your mind to it! ",
+      "date": "2021-06-21T00:00:00.000Z",
+      "reviewer_name": "BrendanEich",
+      "helpfulness": 2,
+      "photos": [
+        {
+          "id": 730914,
+          "url": "https://i.ibb.co/QQhvj1p/group.jpg"
+        }
+      ]
+    },
+    {
+      "review_id": 406932,
+      "rating": 5,
+      "summary": "Hello",
+      "recommend": true,
+      "response": null,
+      "body": "Testing 1, 2, 3",
+      "date": "2021-06-16T00:00:00.000Z",
+      "reviewer_name": "DestroyerOfWorlds",
+      "helpfulness": 1,
+      "photos": []
+    },
+    {
+      "review_id": 406892,
+      "rating": 5,
+      "summary": "Ahhhhhhhh!!!!",
+      "recommend": true,
+      "response": null,
+      "body": "Wowzer!!!",
+      "date": "2021-06-15T00:00:00.000Z",
+      "reviewer_name": "Jimmy Bob",
+      "helpfulness": 1,
+      "photos": [
+        {
+          "id": 730742,
+          "url": "http://localhost:3000/aa0db1cc-d759-442b-91ec-70ce9ce91ca6"
+        }
+      ]
+    },
+    {
+      "review_id": 407314,
+      "rating": 5,
+      "summary": "Hello",
+      "recommend": true,
+      "response": null,
+      "body": "Hello future me you must buy this product. CO1712 is the best.",
+      "date": "2021-06-20T00:00:00.000Z",
+      "reviewer_name": "DestroyerOfWorlds",
+      "helpfulness": 1,
+      "photos": []
+    },
+    {
+      "review_id": 348567,
+      "rating": 4,
+      "summary": "",
+      "recommend": false,
+      "response": null,
+      "body": "i am so tired of writing reviews how about you guys",
+      "date": "2021-05-01T00:00:00.000Z",
+      "reviewer_name": "Barney",
+      "helpfulness": 1,
+      "photos": []
+    },
+    {
+      "review_id": 348559,
+      "rating": 5,
+      "summary": " Ég elska pasta",
+      "recommend": false,
+      "response": null,
+      "body": "Ég get ekki einu sinni sagt þér hversu mikið ég elska kolvetni",
+      "date": "2021-05-01T00:00:00.000Z",
+      "reviewer_name": "Thor",
+      "helpfulness": 1,
+      "photos": []
+    },
+    {
+      "review_id": 348555,
+      "rating": 5,
+      "summary": "Too big for my cat :/",
+      "recommend": false,
+      "response": null,
+      "body": "my can can swim in this onesie but he doesn't float.",
+      "date": "2021-05-01T00:00:00.000Z",
+      "reviewer_name": "catAttict",
+      "helpfulness": 1,
+      "photos": []
+    },
+    {
+      "review_id": 347996,
+      "rating": 5,
+      "summary": "This is the best darn product I've ever seen",
+      "recommend": true,
+      "response": null,
+      "body": "Again, so great. Like so so great",
+      "date": "2021-04-20T00:00:00.000Z",
+      "reviewer_name": "This is my name",
+      "helpfulness": 1,
+      "photos": []
+    },
+    {
+      "review_id": 288800,
+      "rating": 5,
+      "summary": "I finally figured out how to scream",
+      "recommend": true,
+      "response": null,
+      "body": "kalfosahgoihjoithnweriogtnwoiagnwioginowaghoiwahgoiwahbgiowhgi!!!",
+      "date": "2021-03-11T00:00:00.000Z",
+      "reviewer_name": "aggasasg",
+      "helpfulness": 1,
+      "photos": []
+    },
+    {
+      "review_id": 407191,
+      "rating": 4,
+      "summary": "greatproduct",
+      "recommend": false,
+      "response": null,
+      "body": "greatproductgreatproductgreatproductgreatproductgreatproductgreatproduct",
+      "date": "2021-06-18T00:00:00.000Z",
+      "reviewer_name": "greatproduct",
+      "helpfulness": 0,
+      "photos": []
+    },
+    {
+      "review_id": 407083,
+      "rating": 4,
+      "summary": "awesomeawesome",
+      "recommend": true,
+      "response": null,
+      "body": "awesome123awesome123awesome123awesome123awesome123",
+      "date": "2021-06-17T00:00:00.000Z",
+      "reviewer_name": "awesome",
+      "helpfulness": 0,
+      "photos": []
+    },
+    {
+      "review_id": 407189,
+      "rating": 4,
+      "summary": "greatProduct",
+      "recommend": false,
+      "response": null,
+      "body": "greatProductgreatProductgreatProductgreatProductgreatProduct",
+      "date": "2021-06-18T00:00:00.000Z",
+      "reviewer_name": "greatProduct",
+      "helpfulness": 0,
+      "photos": []
+    },
+    {
+      "review_id": 407082,
+      "rating": 4,
+      "summary": "awesomeawesome",
+      "recommend": false,
+      "response": null,
+      "body": "awesome123awesome123awesome123awesome123awesome123",
+      "date": "2021-06-17T00:00:00.000Z",
+      "reviewer_name": "awesome",
+      "helpfulness": 0,
+      "photos": []
+    },
+    {
+      "review_id": 407081,
+      "rating": 4,
+      "summary": "awesomeawesome",
+      "recommend": false,
+      "response": null,
+      "body": "awesomeawesomeawesomeawesomeawesomeawesomeawesomeawesomeawesomeawesomeawesomeawesomeawesomeawesomeawesomeawesomeawesomeawesomeawesome",
+      "date": "2021-06-17T00:00:00.000Z",
+      "reviewer_name": "awesomeawesome",
+      "helpfulness": 0,
+      "photos": []
+    },
+    {
+      "review_id": 406902,
+      "rating": 5,
+      "summary": "testing yet again",
+      "recommend": true,
+      "response": null,
+      "body": "How much do we like testing? Not that much!!!!!!!!!!1",
+      "date": "2021-06-15T00:00:00.000Z",
+      "reviewer_name": "Rory",
+      "helpfulness": 0,
+      "photos": [
+        {
+          "id": 730758,
+          "url": "https://images.unsplash.com/photo-1546491764-67a5b8d5b3ae?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjR8fGRvZ3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "id": 730759,
+          "url": "https://images.unsplash.com/photo-1529429617124-95b109e86bb8?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fGRvZ3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "id": 730760,
+          "url": "https://images.unsplash.com/photo-1527526029430-319f10814151?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjJ8fGRvZ3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "id": 730761,
+          "url": "https://images.unsplash.com/photo-1517849845537-4d257902454a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fGRvZ3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        }
+      ]
+    },
+    {
+      "review_id": 407187,
+      "rating": 3,
+      "summary": "greatProduct",
+      "recommend": false,
+      "response": null,
+      "body": "greatProductgreatProductgreatProductgreatProductgreatProduct",
+      "date": "2021-06-18T00:00:00.000Z",
+      "reviewer_name": "greatProduct",
+      "helpfulness": 0,
+      "photos": []
+    },
+    {
+      "review_id": 407079,
+      "rating": 4,
+      "summary": "awesomeawesome",
+      "recommend": false,
+      "response": null,
+      "body": "awesomeawesomeawesomeawesomeawesomeawesomeawesomeawesomeawesomeawesomeawesomeawesome",
+      "date": "2021-06-17T00:00:00.000Z",
+      "reviewer_name": "awesomeawesome",
+      "helpfulness": 0,
+      "photos": []
+    },
+    {
+      "review_id": 407185,
+      "rating": 4,
+      "summary": "greatProduct",
+      "recommend": false,
+      "response": null,
+      "body": "greatProductgreatProductgreatProductgreatProductgreatProductgreatProduct",
+      "date": "2021-06-18T00:00:00.000Z",
+      "reviewer_name": "greatProduct",
+      "helpfulness": 0,
+      "photos": []
+    },
+    {
+      "review_id": 407080,
+      "rating": 4,
+      "summary": "awesomeawesome",
+      "recommend": false,
+      "response": null,
+      "body": "awesomeawesomeawesomeawesomeawesomeawesomeawesomeawesomeawesomeawesomeawesomeawesomeawesomeawesomeawesomeawesomeawesomeawesomeawesome",
+      "date": "2021-06-17T00:00:00.000Z",
+      "reviewer_name": "awesomeawesome",
+      "helpfulness": 0,
+      "photos": []
+    },
+    {
+      "review_id": 407078,
+      "rating": 4,
+      "summary": "awesomeawesome",
+      "recommend": false,
+      "response": null,
+      "body": "awesomeawesomeawesomeawesomeawesomeawesomeawesomeawesomeawesomeawesomeawesomeawesome",
+      "date": "2021-06-17T00:00:00.000Z",
+      "reviewer_name": "awesomeawesome",
+      "helpfulness": 0,
+      "photos": []
+    },
+    {
+      "review_id": 407077,
+      "rating": 4,
+      "summary": "awesomeawesome",
+      "recommend": false,
+      "response": null,
+      "body": "awesomeawesomeawesomeawesomeawesomeawesomeawesomeawesomeawesomeawesome",
+      "date": "2021-06-17T00:00:00.000Z",
+      "reviewer_name": "awesomeawesome",
+      "helpfulness": 0,
+      "photos": []
+    },
+    {
+      "review_id": 407183,
+      "rating": 4,
+      "summary": "greatproduct",
+      "recommend": false,
+      "response": null,
+      "body": "greatproductgreatproductgreatproductgreatproductgreatproductgreatproductgreatproduct",
+      "date": "2021-06-18T00:00:00.000Z",
+      "reviewer_name": "greatproduct",
+      "helpfulness": 0,
+      "photos": []
+    },
+    {
+      "review_id": 407076,
+      "rating": 4,
+      "summary": "awesome",
+      "recommend": true,
+      "response": null,
+      "body": "awesomeawesomeawesomeawesomeawesomeawesomeawesomeawesomeawesomeawesomeawesomeawesomeawesomeawesome",
+      "date": "2021-06-17T00:00:00.000Z",
+      "reviewer_name": "awesome",
+      "helpfulness": 0,
+      "photos": [
+        {
+          "id": 730852,
+          "url": "https://i.ibb.co/1LMsMmD/diablo.jpg"
+        }
+      ]
+    },
+    {
+      "review_id": 406893,
+      "rating": 5,
+      "summary": "Loving these puppy pics!",
+      "recommend": true,
+      "response": null,
+      "body": "Puppies to the rescue!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+      "date": "2021-06-15T00:00:00.000Z",
+      "reviewer_name": "GROOT!",
+      "helpfulness": 0,
+      "photos": [
+        {
+          "id": 730743,
+          "url": "https://images.unsplash.com/photo-1583511655826-05700d52f4d9?ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8ZG9nfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "id": 730744,
+          "url": "https://images.unsplash.com/photo-1588943211346-0908a1fb0b01?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8ZG9nfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "id": 730745,
+          "url": "https://images.unsplash.com/photo-1537151625747-768eb6cf92b2?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8ZG9nfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "id": 730746,
+          "url": "https://images.unsplash.com/photo-1510771463146-e89e6e86560e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGRvZ3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+          "id": 730747,
+          "url": "https://images.unsplash.com/photo-1552053831-71594a27632d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=612&q=80"
+        }
+      ]
+    },
+    {
+      "review_id": 407171,
+      "rating": 3,
+      "summary": "greatproduct",
+      "recommend": true,
+      "response": null,
+      "body": "greatproductgreatproductgreatproductgreatproductgreatproductgreatproduct",
+      "date": "2021-06-18T00:00:00.000Z",
+      "reviewer_name": "newname",
+      "helpfulness": 0,
+      "photos": []
+    },
+    {
+      "review_id": 407170,
+      "rating": 3,
+      "summary": "greatproduct",
+      "recommend": true,
+      "response": null,
+      "body": "greatproductgreatproductgreatproductgreatproductgreatproductgreatproduct",
+      "date": "2021-06-18T00:00:00.000Z",
+      "reviewer_name": "greatproduct",
+      "helpfulness": 0,
+      "photos": []
+    },
+    {
+      "review_id": 407169,
+      "rating": 3,
+      "summary": "greatproduct",
+      "recommend": true,
+      "response": null,
+      "body": "greatproductgreatproductgreatproductgreatproductgreatproductgreatproduct",
+      "date": "2021-06-18T00:00:00.000Z",
+      "reviewer_name": "greatproduct",
+      "helpfulness": 0,
+      "photos": []
+    },
+    {
+      "review_id": 407168,
+      "rating": 3,
+      "summary": "greatproduct",
+      "recommend": true,
+      "response": null,
+      "body": "greatproductgreatproductgreatproductgreatproductgreatproductgreatproduct",
+      "date": "2021-06-18T00:00:00.000Z",
+      "reviewer_name": "greatproduct",
+      "helpfulness": 0,
+      "photos": []
+    },
+    {
+      "review_id": 406891,
+      "rating": 5,
+      "summary": "Does uploading pic from computer work?",
+      "recommend": true,
+      "response": null,
+      "body": "I don't know...... let's find out!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+      "date": "2021-06-15T00:00:00.000Z",
+      "reviewer_name": "Hopper",
+      "helpfulness": 0,
+      "photos": [
+        {
+          "id": 730741,
+          "url": "blob:http://localhost:3000/aa0db1cc-d759-442b-91ec-70ce9ce91ca6"
+        }
+      ]
+    },
+    {
+      "review_id": 407166,
+      "rating": 4,
+      "summary": "GreatProduct",
+      "recommend": true,
+      "response": null,
+      "body": "GreatProductGreatProductGreatProductGreatProductGreatProduct",
+      "date": "2021-06-18T00:00:00.000Z",
+      "reviewer_name": "GreatProduct",
+      "helpfulness": 0,
+      "photos": []
+    },
+    {
+      "review_id": 406887,
+      "rating": 5,
+      "summary": "Look at this cutie!",
+      "recommend": true,
+      "response": null,
+      "body": "PLEASE post this adorable pup pic!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+      "date": "2021-06-15T00:00:00.000Z",
+      "reviewer_name": "Groot!",
+      "helpfulness": 0,
+      "photos": [
+        {
+          "id": 730740,
+          "url": "https://images.unsplash.com/photo-1543466835-00a7907e9de1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=967&q=80"
+        }
+      ]
+    },
+    {
+      "review_id": 407256,
+      "rating": 4,
+      "summary": "awesome",
+      "recommend": false,
+      "response": null,
+      "body": "awesomeawesomeawesomeawesomeawesomeawesomeawesomeawesome",
+      "date": "2021-06-19T00:00:00.000Z",
+      "reviewer_name": "awesome",
+      "helpfulness": 0,
+      "photos": []
+    },
+    {
+      "review_id": 407255,
+      "rating": 4,
+      "summary": "awesome",
+      "recommend": false,
+      "response": null,
+      "body": "awesomeawesomeawesomeawesomeawesomeawesomeawesomeawesomeawesomeawesome",
+      "date": "2021-06-19T00:00:00.000Z",
+      "reviewer_name": "awesome",
+      "helpfulness": 0,
+      "photos": []
+    },
+    {
+      "review_id": 407254,
+      "rating": 4,
+      "summary": "awesome",
+      "recommend": true,
+      "response": null,
+      "body": "awesomeawesomeawesomeawesomeawesomeawesomeawesomeawesomeawesome",
+      "date": "2021-06-19T00:00:00.000Z",
+      "reviewer_name": "awesome",
+      "helpfulness": 0,
+      "photos": []
+    },
+    {
+      "review_id": 406879,
+      "rating": 5,
+      "summary": "",
+      "recommend": true,
+      "response": null,
+      "body": "HELP ME!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+      "date": "2021-06-15T00:00:00.000Z",
+      "reviewer_name": "Billy Bob",
+      "helpfulness": 0,
+      "photos": []
+    },
+    {
+      "review_id": 407230,
+      "rating": 4,
+      "summary": "awesomeReview",
+      "recommend": false,
+      "response": null,
+      "body": "awesomeReviewawesomeReviewawesomeReviewawesomeReviewawesomeReview",
+      "date": "2021-06-18T00:00:00.000Z",
+      "reviewer_name": "awesomeReview",
+      "helpfulness": 0,
+      "photos": []
+    },
+    {
+      "review_id": 407322,
+      "rating": 5,
+      "summary": "I was here.",
+      "recommend": true,
+      "response": null,
+      "body": "AwesomeAwesomeAwesome\nAwesomeAwesomeAwesome\nAwesomeAwesomeAwesome",
+      "date": "2021-06-20T00:00:00.000Z",
+      "reviewer_name": "Name",
+      "helpfulness": 0,
+      "photos": []
+    },
+    {
+      "review_id": 407344,
+      "rating": 2,
+      "summary": "I am Groot, I am Groot.... I am Groot!",
+      "recommend": true,
+      "response": null,
+      "body": "I am Groot, I am Groot.... I am Groot! I am Groot, I am Groot.... I am Groot!",
+      "date": "2021-06-21T00:00:00.000Z",
+      "reviewer_name": "I am Groot!",
+      "helpfulness": 0,
+      "photos": [
+        {
+          "id": 730911,
+          "url": "https://images.unsplash.com/photo-1596727147705-61a532a659bd?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=934&q=80"
+        },
+        {
+          "id": 730912,
+          "url": "https://images.unsplash.com/photo-1556019203-b08ba9206178?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=934&q=80"
+        }
+      ]
+    },
+    {
+      "review_id": 407227,
+      "rating": 3,
+      "summary": "awesomeReview",
+      "recommend": true,
+      "response": null,
+      "body": "awesomeReviewawesomeReviewawesomeReviewawesomeReviewawesomeReviewawesomeReviewawesomeReview",
+      "date": "2021-06-18T00:00:00.000Z",
+      "reviewer_name": "awesomeReview",
+      "helpfulness": 0,
+      "photos": []
+    },
+    {
+      "review_id": 407226,
+      "rating": 4,
+      "summary": "awesomeReview",
+      "recommend": true,
+      "response": null,
+      "body": "awesomeReviewawesomeReviewawesomeReviewawesomeReviewawesomeReview",
+      "date": "2021-06-18T00:00:00.000Z",
+      "reviewer_name": "awesomeReview",
+      "helpfulness": 0,
+      "photos": []
+    },
+    {
+      "review_id": 407161,
+      "rating": 4,
+      "summary": "ThisWorkss",
+      "recommend": true,
+      "response": null,
+      "body": "ThisWorkssThisWorkssThisWorkssThisWorkssThisWorkssThisWorkss",
+      "date": "2021-06-18T00:00:00.000Z",
+      "reviewer_name": "ThisWorkss",
+      "helpfulness": 0,
+      "photos": []
+    },
+    {
+      "review_id": 407040,
+      "rating": 3,
+      "summary": "new",
+      "recommend": false,
+      "response": null,
+      "body": "new",
+      "date": "2021-06-17T00:00:00.000Z",
+      "reviewer_name": "new",
+      "helpfulness": 0,
+      "photos": [
+        {
+          "id": 730843,
+          "url": "url"
+        }
+      ]
+    },
+    {
+      "review_id": 407159,
+      "rating": 4,
+      "summary": "ThisWorkss",
+      "recommend": true,
+      "response": null,
+      "body": "ThisWorkssThisWorkssThisWorkssThisWorkssThisWorkssThisWorkss",
+      "date": "2021-06-18T00:00:00.000Z",
+      "reviewer_name": "ThisWorkss",
+      "helpfulness": 0,
+      "photos": []
+    },
+    {
+      "review_id": 407036,
+      "rating": 5,
+      "summary": "awesome again",
+      "recommend": false,
+      "response": null,
+      "body": "awesome again",
+      "date": "2021-06-17T00:00:00.000Z",
+      "reviewer_name": "awesomeagain",
+      "helpfulness": 0,
+      "photos": [
+        {
+          "id": 730842,
+          "url": "url"
+        }
+      ]
+    },
+    {
+      "review_id": 407329,
+      "rating": 5,
+      "summary": "This is the sweetest website I've ever seen!",
+      "recommend": true,
+      "response": null,
+      "body": "Love the content and sorting ability!  This site is top notch!",
+      "date": "2021-06-20T00:00:00.000Z",
+      "reviewer_name": "Lets see if this works! :)",
+      "helpfulness": 0,
+      "photos": []
+    },
+    {
+      "review_id": 407157,
+      "rating": 4,
+      "summary": "ThisWorkssThisWorkss",
+      "recommend": true,
+      "response": null,
+      "body": "ThisWorkssThisWorkssThisWorkssThisWorkssThisWorkssThisWorkss",
+      "date": "2021-06-18T00:00:00.000Z",
+      "reviewer_name": "ThisWorkss",
+      "helpfulness": 0,
+      "photos": []
+    },
+    {
+      "review_id": 406801,
+      "rating": 5,
+      "summary": "great!",
+      "recommend": true,
+      "response": null,
+      "body": "splendid!",
+      "date": "2021-06-14T00:00:00.000Z",
+      "reviewer_name": "Jimothy",
+      "helpfulness": 0,
+      "photos": []
+    },
+    {
+      "review_id": 288806,
+      "rating": 5,
+      "summary": "This hoodie makes me feel so fly that I can fly.......zerrrp",
+      "recommend": true,
+      "response": null,
+      "body": "I am superman, the jam, the man with the plan, I am ryman, to the beat of 50 characters per body deet da deet.",
+      "date": "2021-03-12T00:00:00.000Z",
+      "reviewer_name": "coolio",
+      "helpfulness": 0,
+      "photos": []
+    },
+    {
+      "review_id": 348566,
+      "rating": 5,
+      "summary": "",
+      "recommend": false,
+      "response": null,
+      "body": "asdfasdfadsfadsfadsfadfadfasdfasdfadsfadsfasdfadfasdf",
+      "date": "2021-05-01T00:00:00.000Z",
+      "reviewer_name": ";lkj;lkj",
+      "helpfulness": 0,
+      "photos": []
+    },
+    {
+      "review_id": 348564,
+      "rating": 5,
+      "summary": "lkj;lkj;lkj",
+      "recommend": false,
+      "response": null,
+      "body": "jasdfasdfasdfasdfalskdjfas;ldkfjasdlfkjasdfl;kasdjf",
+      "date": "2021-05-01T00:00:00.000Z",
+      "reviewer_name": "asdfasdf",
+      "helpfulness": 0,
+      "photos": []
+    },
+    {
+      "review_id": 348551,
+      "rating": 4,
+      "summary": "much good",
+      "recommend": false,
+      "response": null,
+      "body": "noicenoicenoicenoicenoicenoicenoicenoicenoicenoice",
+      "date": "2021-05-01T00:00:00.000Z",
+      "reviewer_name": "much",
+      "helpfulness": 0,
+      "photos": []
+    },
+    {
+      "review_id": 348549,
+      "rating": 5,
+      "summary": "noice",
+      "recommend": false,
+      "response": null,
+      "body": "My body is nobody's body but mine. And if I had to rate it, I'd give it an 11.4.",
+      "date": "2021-05-01T00:00:00.000Z",
+      "reviewer_name": "anuthaMutha",
+      "helpfulness": 0,
+      "photos": []
+    },
+    {
+      "review_id": 348540,
+      "rating": 5,
+      "summary": "Check out my cat",
+      "recommend": true,
+      "response": null,
+      "body": "My cat is perfect. Highly recommend. 10/10. Soft!!",
+      "date": "2021-05-01T00:00:00.000Z",
+      "reviewer_name": "CatAttict",
+      "helpfulness": 0,
+      "photos": []
+    },
+    {
+      "review_id": 348537,
+      "rating": 5,
+      "summary": "woot",
+      "recommend": false,
+      "response": null,
+      "body": "if this works i'll eat my clothes live on youtube.",
+      "date": "2021-05-01T00:00:00.000Z",
+      "reviewer_name": "clotheater",
+      "helpfulness": 0,
+      "photos": []
+    },
+    {
+      "review_id": 348536,
+      "rating": 5,
+      "summary": "Perfect. I hate it.",
+      "recommend": false,
+      "response": null,
+      "body": "Who's body am I supposed to review? Mine: 11, Yours: 3.6",
+      "date": "2021-05-01T00:00:00.000Z",
+      "reviewer_name": "mom",
+      "helpfulness": 0,
+      "photos": []
+    },
+    {
+      "review_id": 348521,
+      "rating": 5,
+      "summary": "meh",
+      "recommend": true,
+      "response": null,
+      "body": "I wish I could live without eating",
+      "date": "2021-04-30T00:00:00.000Z",
+      "reviewer_name": "shortandsweeet",
+      "helpfulness": 0,
+      "photos": []
+    },
+    {
+      "review_id": 348519,
+      "rating": 5,
+      "summary": "I wish I could give them a 6",
+      "recommend": true,
+      "response": null,
+      "body": "I wish I could live without eating",
+      "date": "2021-04-30T00:00:00.000Z",
+      "reviewer_name": "shortandsweeet",
+      "helpfulness": 0,
+      "photos": []
+    },
+    {
+      "review_id": 348382,
+      "rating": 4,
+      "summary": "Yahoo we're almost done",
+      "recommend": false,
+      "response": null,
+      "body": "hendrerit gravida rutrum quisque non tellus orci ac auctor augue mauris augue neque gravida in fermentum et sollicitudin ac orci phasellus egestas tellus rutrum tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum odio eu feugiat pretium nibh ipsum consequat nisl vel pretium lectus quam id leo in vitae turpis massa sed elementum tempus egestas sed sed risus pretium quam vulputate dignissim suspendisse in",
+      "date": "2021-04-29T00:00:00.000Z",
+      "reviewer_name": "WhoCares",
+      "helpfulness": 0,
+      "photos": []
+    },
+    {
+      "review_id": 348100,
+      "rating": 5,
+      "summary": "Let's do this again",
+      "recommend": true,
+      "response": null,
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ut justo et leo sagittis convallis posuere nec quam. Nulla efficitur dictum nibh eget consectetur. Quisque vehicula pretium laoreet. Aenean ut erat ullamcorper, sodales ante sit amet, luctus nisi. Sed pretium erat dignissim orci tempus, in cursus ipsum tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quis ex ac sapien sodales mattis et vel leo. Nunc quis imperdiet velit, sed porta turpis. Phasellus vitae massa ullamcorper, interdum purus eget, mollis lectus. Maecenas est lacus, efficitur a nunc in biam.",
+      "date": "2021-04-25T00:00:00.000Z",
+      "reviewer_name": "KimSoko",
+      "helpfulness": 0,
+      "photos": []
+    },
+    {
+      "review_id": 407367,
+      "rating": 5,
+      "summary": "awesomeproduct",
+      "recommend": true,
+      "response": null,
+      "body": "awesomeproductawesomeproductawesomeproductawesomeproductawesomeproduct",
+      "date": "2021-06-22T00:00:00.000Z",
+      "reviewer_name": "awesomeproduct",
+      "helpfulness": 0,
+      "photos": []
+    },
+    {
+      "review_id": 407362,
+      "rating": 3,
+      "summary": "",
+      "recommend": false,
+      "response": null,
+      "body": ";ja;sdkfj;alskdjf;laksjd;flkajsd;lfkjas;dlkfj;aslkdjf",
+      "date": "2021-06-21T00:00:00.000Z",
+      "reviewer_name": "t-bone",
+      "helpfulness": 0,
+      "photos": [
+        {
+          "id": 730917,
+          "url": "text"
+        }
+      ]
+    },
+    {
+      "review_id": 407360,
+      "rating": 3,
+      "summary": "",
+      "recommend": false,
+      "response": null,
+      "body": "alsidfasjdf;kasd;flkas;ldkfj;aslkdjf;alksdjf;laksd;flkja",
+      "date": "2021-06-21T00:00:00.000Z",
+      "reviewer_name": "t-bone",
+      "helpfulness": 0,
+      "photos": [
+        {
+          "id": 730915,
+          "url": "text"
+        }
+      ]
+    },
+    {
+      "review_id": 289112,
+      "rating": 6,
+      "summary": "title",
+      "recommend": true,
+      "response": null,
+      "body": "body",
+      "date": "2021-03-14T00:00:00.000Z",
+      "reviewer_name": "user",
+      "helpfulness": 0,
+      "photos": []
+    },
+    {
+      "review_id": 288803,
+      "rating": 5,
+      "summary": "WHAT ARE THESE CHARACTERISTIC_ID'S CALLED",
+      "recommend": true,
+      "response": null,
+      "body": "Oh sorry am I yelling?shdhjgjfgjfgjfgjfgjdhjkgdhkghkhgklguyluyhlufhyluyilyfgul;fgyil;",
+      "date": "2021-03-11T00:00:00.000Z",
+      "reviewer_name": "agdghgh",
+      "helpfulness": 0,
+      "photos": []
+    },
+    {
+      "review_id": 288802,
+      "rating": 5,
+      "summary": "I finally figured out how to speak up ",
+      "recommend": true,
+      "response": null,
+      "body": "ajfogjhaosighwioghoiwarngoiawrngoiwarehngioawhngioaewhngionahrewiog",
+      "date": "2021-03-11T00:00:00.000Z",
+      "reviewer_name": "oagios",
+      "helpfulness": 0,
+      "photos": []
+    },
+    {
+      "review_id": 289052,
+      "rating": 5,
+      "summary": "its working",
+      "recommend": true,
+      "response": null,
+      "body": "ITS ALIVE! MY BEAUTIFUL CREATION IS ALIVE!",
+      "date": "2021-03-13T00:00:00.000Z",
+      "reviewer_name": "ITS WORKING",
+      "helpfulness": 0,
+      "photos": []
+    }
+  ],
+  "questions": [
+    {
+      "question_id": 183426,
+      "question_body": "Do you believe in life after love?",
+      "question_date": "2021-05-04T00:00:00.000Z",
+      "asker_name": "Cher",
+      "question_helpfulness": 13,
+      "reported": false,
+      "answers": {}
+    },
+    {
+      "question_id": 183371,
+      "question_body": "How much do I love \"No-toy-problem-Saturdays\"?",
+      "question_date": "2021-05-01T00:00:00.000Z",
+      "asker_name": "alot",
+      "question_helpfulness": 13,
+      "reported": false,
+      "answers": {
+        "1992098": {
+          "id": 1992098,
+          "body": " a lot",
+          "date": "2021-06-19T00:00:00.000Z",
+          "answerer_name": "abc",
+          "helpfulness": 1,
+          "photos": []
+        },
+        "1992165": {
+          "id": 1992165,
+          "body": "hahahah",
+          "date": "2021-06-21T00:00:00.000Z",
+          "answerer_name": "abc",
+          "helpfulness": 0,
+          "photos": []
+        }
+      }
+    },
+    {
+      "question_id": 183255,
+      "question_body": "Do you believe in God?",
+      "question_date": "2021-04-28T00:00:00.000Z",
+      "asker_name": "GoogleInterviewee",
+      "question_helpfulness": 13,
+      "reported": false,
+      "answers": {
+        "1991963": {
+          "id": 1991963,
+          "body": "Out of stock",
+          "date": "2021-06-18T00:00:00.000Z",
+          "answerer_name": "abc",
+          "helpfulness": 3,
+          "photos": []
+        },
+        "1992027": {
+          "id": 1992027,
+          "body": "Yes we do",
+          "date": "2021-06-18T00:00:00.000Z",
+          "answerer_name": "abc",
+          "helpfulness": 0,
+          "photos": []
+        },
+        "1992033": {
+          "id": 1992033,
+          "body": "back order",
+          "date": "2021-06-18T00:00:00.000Z",
+          "answerer_name": "abc",
+          "helpfulness": 0,
+          "photos": []
+        },
+        "1992069": {
+          "id": 1992069,
+          "body": "black",
+          "date": "2021-06-19T00:00:00.000Z",
+          "answerer_name": "abc",
+          "helpfulness": 0,
+          "photos": []
+        },
+        "1992070": {
+          "id": 1992070,
+          "body": "blue",
+          "date": "2021-06-19T00:00:00.000Z",
+          "answerer_name": "cool",
+          "helpfulness": 0,
+          "photos": []
+        },
+        "1992072": {
+          "id": 1992072,
+          "body": "red",
+          "date": "2021-06-19T00:00:00.000Z",
+          "answerer_name": "cool",
+          "helpfulness": 0,
+          "photos": []
+        },
+        "2171432": {
+          "id": 2171432,
+          "body": "I did until I bought this onesie",
+          "date": "2021-07-28T00:00:00.000Z",
+          "answerer_name": "dfksjkjldfs",
+          "helpfulness": 0,
+          "photos": [
+            "https://www.middlethesamoyed.com/wp-content/uploads/2019/07/clam-samoyed-Middle-the-Samoyed-980x550.jpg"
+          ]
+        }
+      }
+    },
+    {
+      "question_id": 213059,
+      "question_body": "What da dog doin again",
+      "question_date": "2021-06-20T00:00:00.000Z",
+      "asker_name": "KendamaJunkie808Swag",
+      "question_helpfulness": 12,
+      "reported": false,
+      "answers": {
+        "1992131": {
+          "id": 1992131,
+          "body": "What dat dog doing ",
+          "date": "2021-06-20T00:00:00.000Z",
+          "answerer_name": "daDog",
+          "helpfulness": 1,
+          "photos": [
+            "https://i.ibb.co/ScPcTWG/E7491-E84-99-FC-4-FC6-A8-B6-D0-DDB86723-BB.jpg"
+          ]
+        },
+        "1992160": {
+          "id": 1992160,
+          "body": "sleeping",
+          "date": "2021-06-21T00:00:00.000Z",
+          "answerer_name": "abc",
+          "helpfulness": 0,
+          "photos": []
+        }
+      }
+    },
+    {
+      "question_id": 212906,
+      "question_body": "What color is available?",
+      "question_date": "2021-06-18T00:00:00.000Z",
+      "asker_name": "xyz",
+      "question_helpfulness": 12,
+      "reported": false,
+      "answers": {
+        "1992073": {
+          "id": 1992073,
+          "body": "white",
+          "date": "2021-06-19T00:00:00.000Z",
+          "answerer_name": "cool",
+          "helpfulness": 2,
+          "photos": []
+        },
+        "1992075": {
+          "id": 1992075,
+          "body": "blue",
+          "date": "2021-06-19T00:00:00.000Z",
+          "answerer_name": "cool",
+          "helpfulness": 0,
+          "photos": []
+        }
+      }
+    },
+    {
+      "question_id": 212859,
+      "question_body": "aaaaaaaaaaa",
+      "question_date": "2021-06-17T00:00:00.000Z",
+      "asker_name": "abc",
+      "question_helpfulness": 2,
+      "reported": false,
+      "answers": {
+        "1992156": {
+          "id": 1992156,
+          "body": "bbbbb",
+          "date": "2021-06-21T00:00:00.000Z",
+          "answerer_name": "abc",
+          "helpfulness": 0,
+          "photos": []
+        },
+        "1992166": {
+          "id": 1992166,
+          "body": "hahahah",
+          "date": "2021-06-21T00:00:00.000Z",
+          "answerer_name": "abc",
+          "helpfulness": 0,
+          "photos": []
+        }
+      }
+    },
+    {
+      "question_id": 183424,
+      "question_body": "Why?",
+      "question_date": "2021-05-03T00:00:00.000Z",
+      "asker_name": "asdf",
+      "question_helpfulness": 1,
+      "reported": false,
+      "answers": {
+        "1992158": {
+          "id": 1992158,
+          "body": "no why",
+          "date": "2021-06-21T00:00:00.000Z",
+          "answerer_name": "abc",
+          "helpfulness": 0,
+          "photos": []
+        },
+        "1992159": {
+          "id": 1992159,
+          "body": "lololol",
+          "date": "2021-06-21T00:00:00.000Z",
+          "answerer_name": "abc",
+          "helpfulness": 0,
+          "photos": []
+        }
+      }
+    },
+    {
+      "question_id": 232492,
+      "question_body": "Why does this product have so many negative reviews?",
+      "question_date": "2021-07-28T00:00:00.000Z",
+      "asker_name": "coolperson8",
+      "question_helpfulness": 0,
+      "reported": false,
+      "answers": {}
+    },
+    {
+      "question_id": 232491,
+      "question_body": "Why does this product have so many negative reviews?",
+      "question_date": "2021-07-28T00:00:00.000Z",
+      "asker_name": "coolperson8",
+      "question_helpfulness": 0,
+      "reported": false,
+      "answers": {}
+    },
+    {
+      "question_id": 232490,
+      "question_body": "Why does this product have so many negative reviews?",
+      "question_date": "2021-07-28T00:00:00.000Z",
+      "asker_name": "coolperson8",
+      "question_helpfulness": 0,
+      "reported": false,
+      "answers": {}
+    },
+    {
+      "question_id": 232483,
+      "question_body": "How many HR engineers does it take to build a front end?",
+      "question_date": "2021-07-28T00:00:00.000Z",
+      "asker_name": "asdasdas",
+      "question_helpfulness": 0,
+      "reported": false,
+      "answers": {}
+    },
+    {
+      "question_id": 232482,
+      "question_body": "Is there an end to it all?",
+      "question_date": "2021-07-28T00:00:00.000Z",
+      "asker_name": "asdads",
+      "question_helpfulness": 0,
+      "reported": false,
+      "answers": {}
+    },
+    {
+      "question_id": 232481,
+      "question_body": "What's the reason for the seasons?",
+      "question_date": "2021-07-28T00:00:00.000Z",
+      "asker_name": "dsdfs",
+      "question_helpfulness": 0,
+      "reported": false,
+      "answers": {}
+    },
+    {
+      "question_id": 232480,
+      "question_body": "Yesterday I saw a guy spill all his Scrabble letters on the road. I asked him, “What’s the word on the street?”",
+      "question_date": "2021-07-28T00:00:00.000Z",
+      "asker_name": "dundada",
+      "question_helpfulness": 0,
+      "reported": false,
+      "answers": {}
+    },
+    {
+      "question_id": 232464,
+      "question_body": "Could you be loved?",
+      "question_date": "2021-07-26T00:00:00.000Z",
+      "asker_name": "bobmar",
+      "question_helpfulness": 0,
+      "reported": false,
+      "answers": {}
+    },
+    {
+      "question_id": 213109,
+      "question_body": "Do we have xxl",
+      "question_date": "2021-06-21T00:00:00.000Z",
+      "asker_name": "abc",
+      "question_helpfulness": 0,
+      "reported": false,
+      "answers": {}
+    },
+    {
+      "question_id": 213108,
+      "question_body": "Do we have black color?",
+      "question_date": "2021-06-21T00:00:00.000Z",
+      "asker_name": "abc",
+      "question_helpfulness": 0,
+      "reported": false,
+      "answers": {}
+    },
+    {
+      "question_id": 213107,
+      "question_body": "Do we have white color?",
+      "question_date": "2021-06-21T00:00:00.000Z",
+      "asker_name": "abc",
+      "question_helpfulness": 0,
+      "reported": false,
+      "answers": {}
+    },
+    {
+      "question_id": 213011,
+      "question_body": "But does it camo?",
+      "question_date": "2021-06-19T00:00:00.000Z",
+      "asker_name": "Nickname",
+      "question_helpfulness": 0,
+      "reported": false,
+      "answers": {}
+    },
+    {
+      "question_id": 213003,
+      "question_body": "Do we have red color?",
+      "question_date": "2021-06-19T00:00:00.000Z",
+      "asker_name": "cool",
+      "question_helpfulness": 0,
+      "reported": false,
+      "answers": {}
+    },
+    {
+      "question_id": 213002,
+      "question_body": "Do we have white color?",
+      "question_date": "2021-06-19T00:00:00.000Z",
+      "asker_name": "anything",
+      "question_helpfulness": 0,
+      "reported": false,
+      "answers": {}
+    },
+    {
+      "question_id": 212998,
+      "question_body": "Hi There",
+      "question_date": "2021-06-18T00:00:00.000Z",
+      "asker_name": "xyz",
+      "question_helpfulness": 0,
+      "reported": false,
+      "answers": {}
+    },
+    {
+      "question_id": 212930,
+      "question_body": "newQuestion",
+      "question_date": "2021-06-18T00:00:00.000Z",
+      "asker_name": "newQuestion",
+      "question_helpfulness": 0,
+      "reported": false,
+      "answers": {}
+    },
+    {
+      "question_id": 212925,
+      "question_body": "Do we have blue color?",
+      "question_date": "2021-06-18T00:00:00.000Z",
+      "asker_name": "abc",
+      "question_helpfulness": 0,
+      "reported": false,
+      "answers": {}
+    },
+    {
+      "question_id": 212914,
+      "question_body": "Can I iron it?",
+      "question_date": "2021-06-18T00:00:00.000Z",
+      "asker_name": "abc",
+      "question_helpfulness": 0,
+      "reported": false,
+      "answers": {}
+    },
+    {
+      "question_id": 212913,
+      "question_body": "Can I ron it?",
+      "question_date": "2021-06-18T00:00:00.000Z",
+      "asker_name": "abc",
+      "question_helpfulness": 0,
+      "reported": false,
+      "answers": {}
+    },
+    {
+      "question_id": 212912,
+      "question_body": "bbbbbbbb",
+      "question_date": "2021-06-18T00:00:00.000Z",
+      "asker_name": "abc",
+      "question_helpfulness": 0,
+      "reported": false,
+      "answers": {}
+    },
+    {
+      "question_id": 212911,
+      "question_body": "hello",
+      "question_date": "2021-06-18T00:00:00.000Z",
+      "asker_name": "abc",
+      "question_helpfulness": 0,
+      "reported": false,
+      "answers": {}
+    }
+  ],
+  "reviewMeta": {
+    "product_id": "18078",
+    "ratings": {
+      "1": "15",
+      "2": "14",
+      "3": "19",
+      "4": "39",
+      "5": "72",
+      "6": "1"
+    },
+    "recommended": {
+      "false": "70",
+      "true": "90"
+    },
+    "characteristics": {
+      "Fit": {
+        "id": 60618,
+        "value": "2.6117647058823529"
+      },
+      "Length": {
+        "id": 60619,
+        "value": "2.8000000000000000"
+      },
+      "Comfort": {
+        "id": 60620,
+        "value": "3.0714285714285714"
+      },
+      "Quality": {
+        "id": 60621,
+        "value": "2.9295774647887324"
+      }
+    }
+  }
+}

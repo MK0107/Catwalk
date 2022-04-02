@@ -1,7 +1,7 @@
 const path = require('path');
 
 module.exports = {
-  entry: path.join(__dirname, './src/client/index.jsx'),
+  entry: path.join(__dirname, './src/client/index'),
   mode: 'development',
   module: {
     rules: [
@@ -18,6 +18,11 @@ module.exports = {
       {
         test: /\.css$/i,
         use: ["style-loader", "css-loader"]
+      },
+      {
+        test: /\.js$/,
+        enforce: 'pre',
+        use: ['source-map-loader']
       }
     ]
   },
@@ -25,8 +30,9 @@ module.exports = {
     filename: 'bundle.js',
     path: path.join(__dirname, 'dist')
   },
-  watch: true,
+  devtool: 'source-map',
   resolve: {
     extensions: ['.js', '.jsx']
   }
 };
+
